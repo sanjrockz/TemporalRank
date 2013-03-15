@@ -1,0 +1,5 @@
+package org.knoesis.data;
+
+public class DataManager {
+
+}

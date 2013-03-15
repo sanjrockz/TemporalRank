@@ -1,0 +1,417 @@
+package org.knoesis.api;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.sql.Timestamp;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+import org.knoesis.models.WikiRevision;
+import org.knoesis.utils.Commons;
+import org.knoesis.utils.WikipediaConstants;
+import org.knoesis.data.*;
+import org.knoesis.models.*;
+
+/**
+ * This class is responsible for the operations which is related to the action parse from wikipedia API
+ * 
+ * API: https://en.wikipedia.org/w/api.php
+ * 
+ *   title               - Title of page the text belongs to
+ *                       Default: API
+ * text                - Wikitext to parse
+ * summary             - Summary to parse
+ * page                - Parse the content of this page. Cannot be used together with text and title
+ * pageid              - Parse the content of this page. Overrides page
+ * redirects           - If the page or the pageid parameter is set to a redirect, resolve it
+ * oldid               - Parse the content of this revision. Overrides page and pageid
+ * prop                - Which pieces of information to get
+ *                        text           - Gives the parsed text of the wikitext
+ *                        langlinks      - Gives the language links in the parsed wikitext
+ *                        categories     - Gives the categories in the parsed wikitext
+ *                        categorieshtml - Gives the HTML version of the categories
+ *                        languageshtml  - Gives the HTML version of the language links
+ *                        links          - Gives the internal links in the parsed wikitext
+ *                        templates      - Gives the templates in the parsed wikitext
+ *                        images         - Gives the images in the parsed wikitext
+ *                        externallinks  - Gives the external links in the parsed wikitext
+ *                        sections       - Gives the sections in the parsed wikitext
+ *                        revid          - Adds the revision ID of the parsed page
+ *                        displaytitle   - Adds the title of the parsed wikitext
+ *                        headitems      - Gives items to put in the <head> of the page
+ *                        headhtml       - Gives parsed <head> of the page
+ *                        iwlinks        - Gives interwiki links in the parsed wikitext
+ *                        wikitext       - Gives the original wikitext that was parsed
+ *                       Values (separate with '|'): text, langlinks, languageshtml, categories, categorieshtml, links, templates, images, externallinks,
+ *                           sections, revid, displaytitle, headitems, headhtml, iwlinks, wikitext
+ *                       Default: text|langlinks|categories|links|templates|images|externallinks|sections|revid|displaytitle
+ * pst                 - Do a pre-save transform on the input before parsing it
+ *                       Ignored if page, pageid or oldid is used
+ * onlypst             - Do a pre-save transform (PST) on the input, but don't parse it
+ *                       Returns the same wikitext, after a PST has been applied. Ignored if page, pageid or oldid is used
+ * uselang             - Which language to parse the request in
+ * section             - Only retrieve the content of this section number
+ * disablepp           - Disable the PP Report from the parser output
+ * mobileformat        - Return parse output in a format suitable for mobile devices
+ *                       One value: wml, html
+ * noimages            - Disable images in mobile output
+ * mainpage            - Apply mobile main page transformations
+ * 
+ * @author pavan
+ * 
+ * TODO: For now the class just retrieves the list of internal links from a wikipedia article using
+ * 	     the json format. Later it has to be provided for different formats and for the all the existing 
+ * 		 properties
+ *
+ */
+public class WikipediaParser {
+	/**
+	 * Types supported can be extended if there is a necessity.
+	 * @author pavan
+	 *
+	 */
+	static Map<Integer, WikiObject> linkInformation = new HashMap<Integer, WikiObject>(); 
+	static Map<String, Timestamp> uniqueLinkInformation = new HashMap<String, Timestamp>();
+	static int count = 0;
+	
+	public enum Format{
+		XML("xml"), JSON("json");
+		private String value; 
+
+		private Format(String value){
+			this.value = value;
+		}
+
+		public String toString(){
+			return value;
+		}
+
+	}
+	private static HttpConnector conn;
+	private static String wikipediaPage;
+	private Format format; 
+	private static Map<String, String> params;
+	private static final boolean POST = true;
+
+	/**
+	 * Constuctor takes in the wikipage you need to parse
+	 * 
+	 * @param wikpediaPage -- Wikipage
+	 * @param format -- Response Expected in which format
+	 * @param wikipediaPage 
+	 * 
+	 * TODO: Make this a singleton
+	 */
+	public WikipediaParser(String wikipediaPage, Format format) {
+		WikipediaParser.wikipediaPage = wikipediaPage;
+		this.format = format;
+		conn = new HttpConnector(WikipediaConstants.API_URL);
+	}
+
+	public WikipediaParser(){
+		// TODO Nothing but the class using this constructor has to call 
+		// the setWikipediaPage.
+		this.format = Format.JSON;
+		conn = new HttpConnector(WikipediaConstants.API_URL);
+	}
+
+
+	public WikipediaParser(String wikipediaPage) {
+		WikipediaParser.wikipediaPage = wikipediaPage;
+		this.format = Format.JSON;
+		conn = new HttpConnector(WikipediaConstants.API_URL);
+	}
+
+	public void setWikipediaPage(String wikipediaPage){
+		this.wikipediaPage = wikipediaPage;
+	}
+
+	/**
+	 * initializes the parameters for every call to the connect to the API
+	 * 
+	 * For example: 1. to get links 
+	 * 				2. to get text
+	 */
+	private static void initializeParams(){
+		params = new HashMap<String, String>();
+		params.put("action", "parse");
+		params.put("page", wikipediaPage);
+		params.put("format", Format.JSON.toString());
+	}
+
+	public String getLinksJson(){
+		initializeParams();
+		params.put("prop", "links");
+		return conn.response(params, POST);
+	}
+
+	/**
+	 * This method takes time (format YYYYMMDDHHMMSS) and gives you the revisionID of the first page
+	 * edited at that time.
+	 * Once we get this revision ID we can get the links in that Page.
+	 * @param time
+	 * @return
+	 */
+	public String getRevisionID(String time){
+
+		//String timeString = String.valueOf(time);
+
+		params = new HashMap<String, String>();
+		params.put("action","query");
+		params.put("titles", wikipediaPage);
+		params.put("format", Format.JSON.toString());
+		params.put("prop", "revisions");
+		params.put("rvlimit", "1");
+		params.put("rvprop", "ids");
+		params.put("rvdir", "newer");
+		params.put("rvstart", time);		
+		return parseRevisionJson(conn.response(params, POST));
+
+	}
+	/**
+	 * Returns the revision with appropriate parameters 
+	 * 
+	 * Look into the Revision model for information on the 
+	 * values stored
+	 * 
+	 * TODO: Make this a recursive call by checking the final 
+	 * 		id and starting calling the same function from it
+	 * @return
+	 */
+	public List<WikiRevision> getRevisionInformation(){
+		List<WikiRevision> revisions = new ArrayList<WikiRevision>();
+		Map<String, String> params = new HashMap<String, String>();
+		params.put("action","query");
+		params.put("titles", wikipediaPage);
+		params.put("format", Format.JSON.toString());
+		params.put("prop", "revisions");
+		params.put("rvdir","newer");
+		params.put("rvprop", "ids|size|timestamp");
+		params.put("rvlimit", "500");	
+		try {
+			revisions = WikiRevision.serializeJsonObject(new JSONObject(conn.response(params, POST)));
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return revisions;
+	}
+
+	public Set<String> getLinks(){
+		initializeParams();
+		params.put("prop", "links");
+		return parseJson("links", conn.response(params, POST));
+
+	}
+
+	/**
+	 * This method takes revision ID and gives you all the links in that ID'ed page.
+	 * @param revisionID
+	 * @return
+	 */
+	public Set<String> getRevisionIDLinks(String time){
+
+		String revisionID = getRevisionID(time);
+		params = new HashMap<String, String>();
+		params.put("action", "parse");
+		params.put("format", Format.JSON.toString());
+		params.put("oldid", revisionID);
+		params.put("prop", "links");		
+		return parseJson("links", conn.response(params, POST));
+		
+	}
+
+	/**
+	 * TODO: The parsing of JSON should be an Interface and should parse 
+	 * 		jsons for all the properties above.
+	 * @param property
+	 * @param response
+	 * @return
+	 */
+	public static Set<String> parseJson(String property, String response) {
+		//Not considering the properties as of now
+		Set<String> links = new HashSet<String>();
+		try {
+			JSONObject jsonObj = new JSONObject(response);
+			JSONArray linksJson = jsonObj.getJSONObject("parse").getJSONArray("links");
+			for(int i=0; i<linksJson.length(); i++){
+				links.add(linksJson.getJSONObject(i).getString("*"));
+			}
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			return null;
+		}
+		return links;
+	}
+
+	/**
+	 * This method is used to parse JSON to get revision ID
+	 * TODO Need to find a way to make this and the above methods more generic
+	 * @param response
+	 * @return
+	 */
+	public static String parseRevisionJson(String response){
+		String revisionID = null;
+
+		try {
+			JSONObject jsonObject = new JSONObject(response);
+			JSONObject queryObject = jsonObject.getJSONObject("query");
+			JSONObject pagesObject = queryObject.getJSONObject("pages");
+
+			String id = pagesObject.names().get(0).toString();			
+			JSONObject pageID = pagesObject.getJSONObject(id);			
+			JSONArray revisionsArray = pageID.getJSONArray("revisions");	
+			revisionID = revisionsArray.getJSONObject(0).getString("revid");
+
+		} catch (JSONException e) {
+			// TODO: handle exception
+		}			
+		return revisionID;
+	}
+
+	/**
+	 * This method gets all the new links that were added to a current wikipage from that of the 
+	 * same wikipage at a given past date
+	 * @param time (format yyyymmddhhMMss)
+	 * @return
+	 */
+	public Set<String> getNewLinksAdded(String time){
+		Set<String> currentLinks = getLinks();
+		Set<String> linksFromPastPage = getRevisionIDLinks(time);
+		currentLinks.removeAll(linksFromPastPage);
+		return currentLinks;
+	}
+
+	/**
+	 * This method gets all the deleted links in the new page from that of the page in its 
+	 * revision history.
+	 * @param time
+	 * @return
+	 */
+	public Set<String> getLinksDeleted(String time){
+		Set<String> currentLinks = getLinks();
+		Set<String> linksFromPastPage = getRevisionIDLinks(time);
+
+		linksFromPastPage.removeAll(currentLinks);
+
+		return linksFromPastPage;
+	}
+	
+	private static Event returnEventInfo(int eventId) {
+		DataManager dm = new DataManager(WikipediaConstants.TIMELINE_CONNECTION);
+		Event event = dm.getEvent(eventId, WikipediaConstants.EVENT_TABLE);
+		return event;
+	}
+	
+	public void getLinksForEachRevision(int eventId, Timestamp startDate, Timestamp endDate) {
+		
+			Set<String> newLinks = new HashSet<String>();
+			long revision_id=-1;
+			boolean flag = true;
+			Calendar enDate = Calendar.getInstance();	
+			Calendar stDate = Calendar.getInstance();
+
+			stDate.setTimeInMillis(startDate.getTime());
+			System.out.println("Start Date: " + Commons.formatDate(stDate,WikipediaConstants.YYYYMMDD));
+			
+			enDate.setTimeInMillis(endDate.getTime());
+			System.out.println("End Date: " + Commons.formatDate(enDate,WikipediaConstants.YYYYMMDD));
+			
+			Set<String> oldLinks = new HashSet<String>();
+			Set<String> tempLinks = new HashSet<String>();
+			while(flag) {
+				
+					stDate.add(Calendar.DATE, 1);
+					if(stDate.compareTo(enDate) > 0) {
+						flag = false;
+						return;
+					}
+					revision_id = Integer.parseInt(getRevisionID(Commons.formatDate(stDate,WikipediaConstants.YYYYMMDDHHMMSS)));
+					newLinks = getRevisionIDLinks(Commons.formatDate(stDate, WikipediaConstants.YYYYMMDDHHMMSS));					
+					if(!newLinks.isEmpty()){
+						tempLinks.clear();
+						tempLinks.addAll(newLinks);
+					
+						if(!oldLinks.isEmpty()) {					
+							newLinks.removeAll(oldLinks);
+						} 
+						oldLinks.clear();
+						oldLinks.addAll(tempLinks);
+					
+						for(String link: newLinks) {
+							createWikiStats(stDate, link, revision_id, eventId);												
+						}
+										
+					}	
+
+			}
+	}
+		
+	private void createWikiStats(Calendar startDate, String link, long revision_id, int eventId) {			
+		    
+			if(count%WikipediaConstants.BATCH_COUNT == 0) {
+		    	writeToDatabase();
+		    	System.out.println(count + "records added to the database " + linkInformation.size());
+		    	linkInformation.clear();
+		    }			
+		    
+			String linkDate = Commons.formatDate(startDate, WikipediaConstants.YYYYMMDDHHMMSS);
+			java.sql.Timestamp linkDt = java.sql.Timestamp.valueOf(linkDate);
+			
+			if(!uniqueLinkInformation.containsKey(link)) {
+				
+				uniqueLinkInformation.put(link, linkDt);				
+				//Get the page view count for this link for that day and add this information to the database
+				WikipediaPageViews wp = new WikipediaPageViews();			
+				PageStatistics pgStats = wp.getPageStats(link, startDate);
+				WikiObject wikiObj = new WikiObject(linkDt,link, pgStats.getPageViewCount(), pgStats.getPercentageIncrease(), eventId, revision_id);				
+				linkInformation.put(count++, wikiObj);
+				
+			} 
+			
+	}
+	
+	public static void writeResultsToFile(String dateAndLink) {
+		try{
+				BufferedWriter out = new BufferedWriter(new FileWriter("linksAddedToWikiPage.txt", true));
+				out.write(dateAndLink);
+				out.close();
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	private void writeToDatabase() {
+		
+		System.out.println("Writing to the database");
+		DataManager dm = new DataManager(WikipediaConstants.TIMELINE_CONNECTION);
+		dm.insertWikiLinks(WikipediaConstants.WIKI_TABLE, WikipediaConstants.EVENT_ID, linkInformation);
+		
+	}
+
+	public static List<WikiObject> getLinksFromDatabase(int event_id) {
+		
+		DataManager dm = new DataManager(WikipediaConstants.TIMELINE_CONNECTION);
+		List<WikiObject> results = dm.displayWikiLinks(WikipediaConstants.WIKI_TABLE, WikipediaConstants.EVENT_ID);
+		return results;
+		
+	}
+		
+	public static void main(String[] args) {
+		Event event = returnEventInfo(Integer.parseInt(args[0]));
+		WikipediaParser wikiParser = new WikipediaParser(event.getEventName());
+		wikiParser.getLinksForEachRevision(event.getEventId(),event.getStartDate(),event.getEndDate());
+		wikiParser.writeToDatabase();		
+		//getLinksFromDatabase(1);	
+	}
+}
