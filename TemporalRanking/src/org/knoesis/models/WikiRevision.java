@@ -18,6 +18,12 @@ public class WikiRevision {
 	private Date date;
 
 
+	/**
+	 * Added by Sanjaya to hold parent revision id and time stamp which is used to calculate 
+	 * and keep track of the changes in two revisions.
+	 */
+	private Long parentRevisionId;
+	
 	public static List<WikiRevision> serializeJsonObject(JSONObject object){
 		System.out.println(object);
 		List<WikiRevision> revisions = new ArrayList<WikiRevision>();
@@ -77,6 +83,15 @@ public class WikiRevision {
 	}
 	public void setDate(Date date) {
 		this.date = date;
+	}
+
+	
+	public Long getParentRevisionId() {
+		return parentRevisionId;
+	}
+
+	public void setParentRevisionId(Long parentRevisionId) {
+		this.parentRevisionId = parentRevisionId;
 	}
 
 	@Override
