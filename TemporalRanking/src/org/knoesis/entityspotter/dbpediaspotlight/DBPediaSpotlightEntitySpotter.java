@@ -1,6 +1,7 @@
 package org.knoesis.entityspotter.dbpediaspotlight;
 
 import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URLEncoder;
@@ -13,6 +14,9 @@ import org.apache.commons.httpclient.methods.GetMethod;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.knoesis.data.AnnotatedTweetDataManager;
+import org.knoesis.data.DBpediaSpotlightEntityDataManager;
+import org.knoesis.models.AnnotatedTweet;
 import org.knoesis.models.DBpediaSpotlightEntity;
 import org.knoesis.utils.WikipediaConstants;
 
@@ -107,7 +111,54 @@ public class DBPediaSpotlightEntitySpotter
 	public static void main( String args[] )
 	{
 		DBPediaSpotlightEntitySpotter spotter = new DBPediaSpotlightEntitySpotter();
-		spotter.spotEntities( "President Obama called Wednesday on Congress to extend a tax break for students included in last year's economic stimulus package, arguing that the policy provides more generous assistance.", "ID_1" );
+		//spotter.spotEntities( "President Obama called Wednesday on Congress to extend a tax break for students included in last year's economic stimulus package, arguing that the policy provides more generous assistance.", "ID_1" );
 	
+		AnnotatedTweet annotatedTweet = null;
+		AnnotatedTweetDataManager annotatedTweetDataManager = new AnnotatedTweetDataManager();
+		DBpediaSpotlightEntityDataManager spotlightEntityDataManager = new DBpediaSpotlightEntityDataManager();
+		List<DBpediaSpotlightEntity> spotlightEntityList = null;
+		int tweetKey = -1;
+		String dbConnectionUrl = "jdbc:mysql://127.0.0.1:3306/Timeline?user=root&password=admin&useUnicode=true&characterEncoding=UTF-8";
+		try
+		{
+//			Class.forName( WikipediaConstants.DRIVER );
+//			connection = DriverManager.getConnection( "jdbc:mysql://130.108.5.96:3306/usElection2012?user=root&password=pranyd09!" );
+//
+//			String selectStatement = "select * from twitterdata where eventID=\'hurricaneSandy2012\'";
+//			ps = connection.prepareStatement( selectStatement );
+//			resultsSet = ps.executeQuery();
+			
+			BufferedReader reader = new BufferedReader( new FileReader( "/tmp/sandy.txt" ) );
+			String line = null;
+
+			while ( ( line = reader.readLine() ) != null )
+			{
+				annotatedTweet = new AnnotatedTweet( line );
+				
+				tweetKey = annotatedTweetDataManager.insert( dbConnectionUrl, annotatedTweet );
+				
+				spotlightEntityList = spotter.spotEntities( annotatedTweet.getTweetText(), (tweetKey + "") );
+				
+				for(DBpediaSpotlightEntity spotlightEntity: spotlightEntityList )
+				{
+					spotlightEntityDataManager.insert(dbConnectionUrl, spotlightEntity, tweetKey );
+				}
+			}
+		}
+		catch( Exception e )
+		{
+			e.printStackTrace();
+		}
+		finally
+		{
+			try
+			{
+				
+			}
+			catch( Exception e )
+			{
+				e.printStackTrace();
+			}
+		}
 	}
 }
