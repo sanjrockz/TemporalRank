@@ -10,7 +10,7 @@ public class DBpediaSpotlightEntity
 
 	private String tweetText;
 	private String url;
-	private int support;
+	private double support;
 	private String types;
 	private String entityName;
 	private int offset;
@@ -39,12 +39,12 @@ public class DBpediaSpotlightEntity
 		this.url = url;
 	}
 
-	public int getSupport()
+	public double getSupport()
 	{
 		return support;
 	}
 
-	public void setSupport( int support )
+	public void setSupport( double support )
 	{
 		this.support = support;
 	}

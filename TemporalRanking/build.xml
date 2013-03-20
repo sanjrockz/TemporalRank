@@ -20,7 +20,18 @@
     <javac srcdir="${src.dir}" destdir="${classes.dir}" classpathref="classpath"/>
 </target>
 
-<target name="jar" depends="compile">
+<target name="pack-libs">
+	<unzip src="${lib.dir}/commons-codec-1.7.jar" dest="${classes.dir}"/>
+	<unzip src="${lib.dir}/commons-httpclient-3.0.1.jar" dest="${classes.dir}"/>
+	<unzip src="${lib.dir}/commons-lang-2.6.jar" dest="${classes.dir}"/>
+	<unzip src="${lib.dir}/commons-logging-1.1.1.jar" dest="${classes.dir}"/>
+	<unzip src="${lib.dir}/commons-logging-adapters-1.1.1.jar" dest="${classes.dir}"/>
+	<unzip src="${lib.dir}/commons-logging-api-1.1.1.jar" dest="${classes.dir}"/>
+	<unzip src="${lib.dir}/json-org.jar" dest="${classes.dir}"/>
+	<unzip src="${lib.dir}/mysql-connector-java-5.1.22-bin.jar" dest="${classes.dir}"/>
+</target>
+	
+<target name="jar" depends="compile, pack-libs">
     <mkdir dir="${jar.dir}"/>
     <jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${classes.dir}">
         <manifest>

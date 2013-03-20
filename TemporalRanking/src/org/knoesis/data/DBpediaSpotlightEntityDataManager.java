@@ -40,7 +40,7 @@ public class DBpediaSpotlightEntityDataManager
 			int count = 0;
 			ps = connection.prepareStatement( insertStatement );
 			ps.setString( ++count, entity.getUrl() );
-			ps.setInt( ++count, entity.getSupport() );
+			ps.setDouble( ++count, entity.getSupport() );
 			ps.setString( ++count, entity.getTypes() );
 			ps.setString( ++count, entity.getEntityName() );
 			ps.setInt( ++count, entity.getOffset() );
@@ -104,7 +104,7 @@ public class DBpediaSpotlightEntityDataManager
 				int count = 0;
 				spotlightEntity = new DBpediaSpotlightEntity();
 				spotlightEntity.setUrl( resultsSet.getString( ++count ) );
-				spotlightEntity.setSupport( resultsSet.getInt( ++count ) );
+				spotlightEntity.setSupport( resultsSet.getDouble( ++count ) );
 				spotlightEntity.setTypes( resultsSet.getString( ++count ) );
 				spotlightEntity.setEntityName( resultsSet.getString( ++count ) );
 				spotlightEntity.setOffset( resultsSet.getInt( ++count ) );
@@ -202,7 +202,7 @@ public class DBpediaSpotlightEntityDataManager
 				int count = 0;
 				spotlightEntity = new DBpediaSpotlightEntity();
 				spotlightEntity.setUrl( resultsSet2.getString( ++count ) );
-				spotlightEntity.setSupport( resultsSet2.getInt( ++count ) );
+				spotlightEntity.setSupport( resultsSet2.getDouble( ++count ) );
 				spotlightEntity.setTypes( resultsSet2.getString( ++count ) );
 				spotlightEntity.setEntityName( resultsSet2.getString( ++count ) );
 				spotlightEntity.setOffset( resultsSet2.getInt( ++count ) );
