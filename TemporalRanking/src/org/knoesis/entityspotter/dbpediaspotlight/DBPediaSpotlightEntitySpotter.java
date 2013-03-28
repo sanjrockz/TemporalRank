@@ -5,7 +5,11 @@ import java.io.FileReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URLEncoder;
+import java.sql.Date;
+import java.sql.Timestamp;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.List;
 
 import org.apache.commons.httpclient.Header;
@@ -128,22 +132,55 @@ public class DBPediaSpotlightEntitySpotter
 //			ps = connection.prepareStatement( selectStatement );
 //			resultsSet = ps.executeQuery();
 			
-			BufferedReader reader = new BufferedReader( new FileReader( "/tmp/sandy.txt" ) );
+			BufferedReader reader = new BufferedReader( new FileReader( "/tmp/sandy_all.txt" ) );
 			String line = null;
-
+			int count = 1;
+			String dataFields[] = null;
+			Date date = null;
+			java.util.Date date2 = null;
+			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-mm-dd hh:mm:ss");
+			
+			Timestamp dateTime = null;
+			
+			java.util.Date min = sdf.parse("2012-10-15 23:59:59");
+			java.util.Date max = sdf.parse("2013-03-20 23:59:59");;
+			
 			while ( ( line = reader.readLine() ) != null )
 			{
-				annotatedTweet = new AnnotatedTweet( line );
-				
-				tweetKey = annotatedTweetDataManager.insert( dbConnectionUrl, annotatedTweet );
-				
-				spotlightEntityList = spotter.spotEntities( annotatedTweet.getTweetText(), (tweetKey + "") );
-				
-				for(DBpediaSpotlightEntity spotlightEntity: spotlightEntityList )
+				dataFields = line.split("\t");
+				for( int i = 0; i < dataFields.length; i++)
 				{
-					spotlightEntityDataManager.insert(dbConnectionUrl, spotlightEntity, tweetKey );
+					System.out.println(dataFields[i]);
 				}
+				if( count > 190 )
+				{
+					try
+					{
+						date2 = sdf.parse(dataFields[2]);
+						dateTime = new Timestamp(date2.getTime());
+						
+						if( date2.after(min) && date2.before(max) )
+						{
+							annotatedTweet = new AnnotatedTweet( dataFields[1], dataFields[0], dateTime, dataFields[3], Double.parseDouble(dataFields[4]), Double.parseDouble(dataFields[5]) );
+												
+							tweetKey = annotatedTweetDataManager.insert( dbConnectionUrl, annotatedTweet );
+							
+							spotlightEntityList = spotter.spotEntities( annotatedTweet.getTweetText(), (tweetKey + "") );
+							
+							for( DBpediaSpotlightEntity spotlightEntity: spotlightEntityList )
+							{
+								spotlightEntityDataManager.insert(dbConnectionUrl, spotlightEntity, tweetKey );
+							}
+						}
+					}
+					catch( Exception e )
+					{
+						e.printStackTrace();
+					}
+				}
+				count++;
 			}
+			
 		}
 		catch( Exception e )
 		{

@@ -25,7 +25,7 @@ public class WikipediaConstants {
 	/**
 	 *  ASSUMPTION - WE GET THIS AS A COMMAND LINE ARGUMENT AND STORE IT HERE.
 	 */
-	public static final int EVENT_ID = 1;
+	public static final int EVENT_ID = 2;
 	
 	public static final String JSON_Property = "daily_views";
 	public static final String YYYYMM = "YYYYMM";	

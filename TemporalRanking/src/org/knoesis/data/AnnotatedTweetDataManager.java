@@ -38,12 +38,17 @@ public class AnnotatedTweetDataManager
 		{
 			Class.forName( WikipediaConstants.DRIVER );
 			connection = DriverManager.getConnection( dbConnectionUrl );
-
-			String insertStatement = "INSERT INTO " + WikipediaConstants.ANNOTATED_TWEET_TABLE_NAME + " (tweet_text, event_id) VALUES (?, ?)";
+						
+			String insertStatement = "INSERT INTO " + WikipediaConstants.ANNOTATED_TWEET_TABLE_NAME + " (tweet_text, event_id, twitter_id, published_date,tweet_author, latitude, longitude) VALUES (?, ?, ?, ?, ?, ?, ?)";
 			int count = 0;
 			ps = connection.prepareStatement( insertStatement, Statement.RETURN_GENERATED_KEYS );
 			ps.setString( ++count, tweet.getTweetText() );
 			ps.setInt( ++count, WikipediaConstants.EVENT_ID );
+			ps.setString(++count, tweet.getTweetID());
+			ps.setTimestamp(++count, tweet.getPublishedDate());
+			ps.setString(++count, tweet.getAuthor());
+			ps.setDouble(++count, tweet.getLatitude());
+			ps.setDouble(++count, tweet.getLongitude());
 			ps.executeUpdate();
 			ResultSet keys = ps.getGeneratedKeys();    
 			keys.next();  
