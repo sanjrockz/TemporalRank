@@ -5,7 +5,11 @@ import java.io.FileReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URLEncoder;
+import java.sql.Connection;
 import java.sql.Date;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -136,29 +140,28 @@ public class DBPediaSpotlightEntitySpotter
 			String line = null;
 			int count = 1;
 			String dataFields[] = null;
-			Date date = null;
+
 			java.util.Date date2 = null;
-			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-mm-dd hh:mm:ss");
+			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 			
 			Timestamp dateTime = null;
 			
 			java.util.Date min = sdf.parse("2012-10-15 23:59:59");
 			java.util.Date max = sdf.parse("2013-03-20 23:59:59");;
+
 			
 			while ( ( line = reader.readLine() ) != null )
 			{
 				dataFields = line.split("\t");
-				for( int i = 0; i < dataFields.length; i++)
-				{
-					System.out.println(dataFields[i]);
-				}
-				if( count > 190 )
+								
+				if( count > 501000 )
 				{
 					try
 					{
 						date2 = sdf.parse(dataFields[2]);
+
 						dateTime = new Timestamp(date2.getTime());
-						
+
 						if( date2.after(min) && date2.before(max) )
 						{
 							annotatedTweet = new AnnotatedTweet( dataFields[1], dataFields[0], dateTime, dataFields[3], Double.parseDouble(dataFields[4]), Double.parseDouble(dataFields[5]) );
@@ -198,4 +201,6 @@ public class DBPediaSpotlightEntitySpotter
 			}
 		}
 	}
+	
+
 }
