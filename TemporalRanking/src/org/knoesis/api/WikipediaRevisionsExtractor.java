@@ -72,28 +72,35 @@ public class WikipediaRevisionsExtractor
 			{
 				responseObject = new JSONObject( line );
 				// TODO How to find the pageid of the page?
-				resultsArray = responseObject.getJSONObject( "query" ).getJSONObject( "pages" ).getJSONObject( "20102947" ).getJSONArray( "revisions" );
-				if ( resultsArray != null )
+				JSONObject jsonResultObject = responseObject.getJSONObject( "query" ).getJSONObject( "pages" );
+				Object jsonObj = null;
+				if( jsonResultObject != null && jsonResultObject.keys().hasNext() )
 				{
-					for ( int i = 0; i < resultsArray.length(); i++ )
+					jsonObj = jsonResultObject.keys().next();
+					
+					resultsArray = ( (JSONObject) jsonObj).getJSONArray( "revisions" );
+					if ( resultsArray != null )
 					{
-						jsonObject = ( JSONObject ) resultsArray.get( i );
-						wikiRevision = new WikiRevision();
-						wikiRevision.setId( jsonObject.getLong( "revid" ) );
-						wikiRevision.setParentRevisionId( jsonObject.getLong( "parentid" ) );
-						dateString = jsonObject.getString( "timestamp" );
-						DateFormat formatter = new SimpleDateFormat( "yyyy-MM-dd'T'HH:mm:ss'Z'" );
-						wikiRevision.setDate( ( Date ) formatter.parse( dateString ) );
-						dateKey = wikiRevision.getDate().getYear() + "-" + wikiRevision.getDate().getMonth() + "-" + wikiRevision.getDate().getDate();
-						wikiRevisionsList = wikiRevisionsMap.get( dateKey );
-						if ( wikiRevisionsList == null )
+						//resultsArray = responseObject.getJSONObject( "query" ).getJSONObject( "pages" ).getJSONObject( "20102947" ).getJSONArray( "revisions" );
+						for ( int i = 0; i < resultsArray.length(); i++ )
 						{
-							wikiRevisionsList = new HashMap<Integer, WikiRevision>();
+							jsonObject = ( JSONObject ) resultsArray.get( i );
+							wikiRevision = new WikiRevision();
+							wikiRevision.setId( jsonObject.getLong( "revid" ) );
+							wikiRevision.setParentRevisionId( jsonObject.getLong( "parentid" ) );
+							dateString = jsonObject.getString( "timestamp" );
+							DateFormat formatter = new SimpleDateFormat( "yyyy-MM-dd'T'HH:mm:ss'Z'" );
+							wikiRevision.setDate( ( Date ) formatter.parse( dateString ) );
+							dateKey = wikiRevision.getDate().getYear() + "-" + wikiRevision.getDate().getMonth() + "-" + wikiRevision.getDate().getDate();
+							wikiRevisionsList = wikiRevisionsMap.get( dateKey );
+							if ( wikiRevisionsList == null )
+							{
+								wikiRevisionsList = new HashMap<Integer, WikiRevision>();
+							}
+							wikiRevisionsList.put( Integer.valueOf( wikiRevisionsList.size() ), wikiRevision );
+							wikiRevisionsMap.put( dateKey, wikiRevisionsList );
 						}
-						wikiRevisionsList.put( Integer.valueOf( wikiRevisionsList.size() ), wikiRevision );
-						wikiRevisionsMap.put( dateKey, wikiRevisionsList );
-					}
-
+					}					
 				}
 			}
 
@@ -296,9 +303,9 @@ public class WikipediaRevisionsExtractor
 		 wikiRevisionExtractor.populateRevisionsMap( WikipediaConstants.WIKIPEDIA_EVENT_PAGE_NAME );
 //		 wikiRevisionExtractor.parseRevisionText( wikiRevisionExtractor.getRevisionText( WikipediaConstants.WIKIPEDIA_EVENT_PAGE_NAME ),
 		// "Barack_Obama" );
+//		 System.out.println( WikipediaRevisionsExtractor.jsonText );
+		System.out.println( wikiRevisionExtractor.getRevisionContentWithEntityMentions( wikiRevisionExtractor.getRevisionText( WikipediaConstants.WIKIPEDIA_EVENT_PAGE_NAME ), "United States" ) );
 		 System.out.println( WikipediaRevisionsExtractor.jsonText );
-//		System.out.println( wikiRevisionExtractor.getRevisionContentWithEntityMentions( wikiRevisionExtractor.getRevisionText( WikipediaConstants.WIKIPEDIA_EVENT_PAGE_NAME ), "United States" ) );
-		// System.out.println( WikipediaRevisionsExtractor.jsonText );
 	}
 
 }
