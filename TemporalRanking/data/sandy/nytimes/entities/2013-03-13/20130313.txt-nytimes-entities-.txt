@@ -1,0 +1,8 @@
+51409caecf28d02e3d0000e2	http://dbpedia.org/page/Queens
+51409caecf28d02e3d0000e2	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51409caecf28d02e3d0000e2	http://dbpedia.org/page/Brooklyn
+5140cdf4cf28d02e3d0003e5	http://dbpedia.org/page/Brooklyn
+5140b6eecf28d02e3d00030e	http://dbpedia.org/page/Queens
+5140b6eecf28d02e3d00030e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51409bebcf28d02e3d000084	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51409c13cf28d02e3d00009a	http://dbpedia.org/page/Michael_R._Bloomberg

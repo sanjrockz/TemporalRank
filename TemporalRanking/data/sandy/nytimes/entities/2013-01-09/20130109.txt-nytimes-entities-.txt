@@ -1,0 +1,8 @@
+50eda73900315214fbb83419	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50ed283300315214fbb8323b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50ed283300315214fbb8323b	http://dbpedia.org/page/Chris_Christie
+50edec6100315214fbb83511	http://dbpedia.org/page/Facebook
+50edec6100315214fbb83511	http://dbpedia.org/page/Chris_Christie
+50ed281d00315214fbb8320e	http://dbpedia.org/page/Brooklyn
+50edad1900315214fbb83431	http://dbpedia.org/page/Weather
+50ec198a00315214fbb82fce	http://dbpedia.org/page/Social_media

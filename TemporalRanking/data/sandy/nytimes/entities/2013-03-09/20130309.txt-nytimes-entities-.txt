@@ -1,0 +1,3 @@
+514711ebfdc5926e7700040f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+514711ebfdc5926e7700040f	http://dbpedia.org/page/Brooklyn
+514711defdc5926e770003e5	http://dbpedia.org/page/Queens

@@ -1,0 +1,4 @@
+514d09a8fdc5926e77001d33	http://dbpedia.org/page/Jamaica
+514d09a8fdc5926e77001d33	http://dbpedia.org/page/Queens
+514d09a8fdc5926e77001d33	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+514d1ff9fdc5926e77001d6f	http://dbpedia.org/page/National_Park_Service

@@ -1,0 +1,3 @@
+http://dbpedia.org/page/President_Obama	0.25
+http://dbpedia.org/page/Canada	0.25
+http://dbpedia.org/page/Long_Island	0.0

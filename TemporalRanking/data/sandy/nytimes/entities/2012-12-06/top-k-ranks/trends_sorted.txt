@@ -1,0 +1,5 @@
+http://dbpedia.org/page/President_Obama	0.25
+http://dbpedia.org/page/Michael_Bloomberg	0.125
+http://dbpedia.org/page/White_House	0.125
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.05555555555555558
+http://dbpedia.org/page/Weather	-0.09722222222222221

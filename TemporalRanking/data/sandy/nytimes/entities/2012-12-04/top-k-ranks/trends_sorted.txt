@@ -1,0 +1,11 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.8461538461538461
+http://dbpedia.org/page/Tropical_storm	0.15384615384615385
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.15384615384615385
+http://dbpedia.org/page/Weather	0.15384615384615385
+http://dbpedia.org/page/Long_Island	0.15384615384615385
+http://dbpedia.org/page/FEMA	0.07692307692307693
+http://dbpedia.org/page/Climate_change	0.07692307692307693
+http://dbpedia.org/page/Langone_Medical_Center	0.07692307692307693
+http://dbpedia.org/page/Atlantic_City	0.07692307692307693
+http://dbpedia.org/page/Staten_Island	0.07692307692307693
+http://dbpedia.org/page/Manhattan	0.07692307692307693

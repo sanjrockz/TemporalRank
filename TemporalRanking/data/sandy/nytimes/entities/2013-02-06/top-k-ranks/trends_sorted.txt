@@ -1,0 +1,2 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	1.0
+http://dbpedia.org/page/Northeastern_States	0.3333333333333333

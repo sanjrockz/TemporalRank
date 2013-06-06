@@ -1,0 +1,15 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.72
+http://dbpedia.org/page/Long_Island	0.12
+http://dbpedia.org/page/Staten_Island	0.08
+http://dbpedia.org/page/President_Obama	0.08
+http://dbpedia.org/page/Manhattan	0.08
+http://dbpedia.org/page/Queens	0.04
+http://dbpedia.org/page/Langone_Medical_Center	0.04
+http://dbpedia.org/page/Consolidated_Edison	0.04
+http://dbpedia.org/page/Tropical_storm	0.04
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.04
+http://dbpedia.org/page/FEMA	0.04
+http://dbpedia.org/page/Brooklyn	0.04
+http://dbpedia.org/page/Climate_change	0.04
+http://dbpedia.org/page/Mayor_Bloomberg	0.04
+http://dbpedia.org/page/NYU	0.04

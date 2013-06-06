@@ -1,0 +1,4 @@
+513e0232cf28d04ae0001068	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d910d400315214fbb81184	http://dbpedia.org/page/Breezy_Point,_Queens
+50d910d400315214fbb81184	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d913f800315214fbb81188	http://dbpedia.org/page/Breezy_Point,_Queens

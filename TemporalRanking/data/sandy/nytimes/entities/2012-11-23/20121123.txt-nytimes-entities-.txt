@@ -1,0 +1,17 @@
+50b5076600315214fbb7bdd7	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5076600315214fbb7bdd7	http://dbpedia.org/page/Atlantic_City
+50b5083100315214fbb7c939	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5076600315214fbb7be06	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5078c00315214fbb7bfda	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507eb00315214fbb7c560	http://dbpedia.org/page/Queens
+50b507eb00315214fbb7c560	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5083100315214fbb7c918	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+515a03b1fdc59278db0015c0	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5083100315214fbb7c929	http://dbpedia.org/page/Lower_Manhattan
+50b5083100315214fbb7c929	http://dbpedia.org/page/East_River
+50b5083200315214fbb7c93a	http://dbpedia.org/page/Brooklyn
+50b5079b00315214fbb7c073	http://dbpedia.org/page/Fire_Island
+50b5079b00315214fbb7c073	http://dbpedia.org/page/Barrier_island
+50b5077f00315214fbb7bf2a	http://dbpedia.org/page/Fire_Island
+50b5077f00315214fbb7bf2a	http://dbpedia.org/page/Barrier_island
+50b5080100315214fbb7c66e	http://dbpedia.org/page/Manhattan

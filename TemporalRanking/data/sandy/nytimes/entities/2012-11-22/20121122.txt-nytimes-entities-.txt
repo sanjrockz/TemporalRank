@@ -1,0 +1,16 @@
+50aee2fe00315214fbb7b8ab	http://dbpedia.org/page/Queens
+50aee2fe00315214fbb7b8ab	http://dbpedia.org/page/Long_Island
+50aee2fe00315214fbb7b8ab	http://dbpedia.org/page/Coney_Island
+50b5084300315214fbb7c9e0	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5084300315214fbb7c9e0	http://dbpedia.org/page/Manhattan
+513e022dcf28d04ae0001054	http://dbpedia.org/page/Long_Island
+513e022dcf28d04ae0001054	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5073c00315214fbb7bc20	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5075400315214fbb7bd95	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5076600315214fbb7bdce	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5076600315214fbb7bdce	http://dbpedia.org/page/Atlantic_City
+50b5073c00315214fbb7bc23	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5073c00315214fbb7bbeb	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5083100315214fbb7c8db	http://dbpedia.org/page/Atlantic_City
+50b5078c00315214fbb7bfb4	http://dbpedia.org/page/Brooklyn
+50b507eb00315214fbb7c585	http://dbpedia.org/page/Climate_change

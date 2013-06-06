@@ -1,0 +1,3 @@
+51218c0acf28d009de00052c	http://dbpedia.org/page/Breezy_Point,_Queens
+51218c0acf28d009de00052c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5122290ccf28d009de000622	http://dbpedia.org/page/Weather

@@ -1,0 +1,5 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.7142857142857143
+http://dbpedia.org/page/Executive_order	0.14285714285714285
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.14285714285714285
+http://dbpedia.org/page/Brooklyn	0.14285714285714285
+http://dbpedia.org/page/Manhattan	0.14285714285714285

@@ -1,0 +1,3 @@
+512b5a81cf28d009de001d92	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+512addc3cf28d009de001ca1	http://dbpedia.org/page/Democratic_Party
+512addc3cf28d009de001ca1	http://dbpedia.org/page/President_Obama

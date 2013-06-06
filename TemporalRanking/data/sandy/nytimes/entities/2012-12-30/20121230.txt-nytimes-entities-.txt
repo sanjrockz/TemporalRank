@@ -1,0 +1,4 @@
+50de11d600315214fbb818d9	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50de0fcd00315214fbb818ba	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50df397300315214fbb81a69	http://dbpedia.org/page/Texas
+50df397300315214fbb81a69	http://dbpedia.org/page/Federal_Emergency_Management_Agency

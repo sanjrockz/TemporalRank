@@ -1,0 +1,6 @@
+512f8c19cf28d009de002995	http://dbpedia.org/page/Lower_Manhattan
+512f8c19cf28d009de002995	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+512e8c5fcf28d009de002690	http://dbpedia.org/page/Queens
+512e8c5fcf28d009de002690	http://dbpedia.org/page/Fire_Island
+512e8c5fcf28d009de002690	http://dbpedia.org/page/National_Park_Service
+512e9d7ccf28d009de0026df	http://dbpedia.org/page/Brooklyn

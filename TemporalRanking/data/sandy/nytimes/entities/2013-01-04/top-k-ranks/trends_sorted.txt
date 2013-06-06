@@ -1,0 +1,11 @@
+http://dbpedia.org/page/Sandy_Hook	0.18181818181818182
+http://dbpedia.org/page/Atlantic	0.09090909090909091
+http://dbpedia.org/page/Queens	0.09090909090909091
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.09090909090909091
+http://dbpedia.org/page/Port-au-Prince	0.09090909090909091
+http://dbpedia.org/page/Whitestone_Bridge	0.09090909090909091
+http://dbpedia.org/page/Staten_Island	0.09090909090909091
+http://dbpedia.org/page/Chris_Christie	0.0
+http://dbpedia.org/page/FEMA	0.0
+http://dbpedia.org/page/Flood_insurance	-0.09090909090909091
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.27272727272727276

@@ -1,0 +1,7 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.4
+http://dbpedia.org/page/Atlantic	0.2
+http://dbpedia.org/page/Queens	0.2
+http://dbpedia.org/page/Storm_surge	0.2
+http://dbpedia.org/page/Chris_Christie	0.2
+http://dbpedia.org/page/Jersey_Shore	0.2
+http://dbpedia.org/page/Manhattan	0.2

@@ -1,0 +1,6 @@
+50be622a00315214fbb7d378	http://dbpedia.org/page/Long_Island
+50be622a00315214fbb7d378	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c17b5a00315214fbb7e178	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50be627f00315214fbb7d6b3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50be627f00315214fbb7d6b3	http://dbpedia.org/page/Brooklyn
+50be622900315214fbb7d359	http://dbpedia.org/page/Hurricane_Sandy_(2012)

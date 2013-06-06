@@ -1,0 +1,13 @@
+http://dbpedia.org/page/Weather	0.15833333333333335
+http://dbpedia.org/page/Democratic_Party	0.04
+http://dbpedia.org/page/Delaware	0.04
+http://dbpedia.org/page/Jersey_Shore	0.04
+http://dbpedia.org/page/Northern_Virginia	0.04
+http://dbpedia.org/page/Chris_Christie	0.04
+http://dbpedia.org/page/Storm_surge	0.04
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.04
+http://dbpedia.org/page/White_House	0.03833333333333334
+http://dbpedia.org/page/Santiago_de_Cuba	-0.0016666666666666635
+http://dbpedia.org/page/Tropical_storm	-0.010000000000000009
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.033333333333333326
+http://dbpedia.org/page/Atlantic	-0.045

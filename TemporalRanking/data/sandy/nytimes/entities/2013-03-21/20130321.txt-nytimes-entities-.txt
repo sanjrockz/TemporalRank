@@ -1,0 +1,4 @@
+514a3a44fdc5926e77001401	http://dbpedia.org/page/Long_Island
+514a3a44fdc5926e77001401	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5153c05bfdc59278db000236	http://dbpedia.org/page/Brooklyn
+514b0514fdc5926e7700161d	http://dbpedia.org/page/Manhattan

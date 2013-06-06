@@ -1,0 +1,3 @@
+511d6c1d00315214fbb8ba3b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+511d1ea200315214fbb8b876	http://dbpedia.org/page/Long_Island
+511d1ea200315214fbb8b876	http://dbpedia.org/page/Hurricane_Sandy_(2012)

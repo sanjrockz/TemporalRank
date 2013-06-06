@@ -1,0 +1,6 @@
+http://dbpedia.org/page/Weather	0.5
+http://dbpedia.org/page/Tropical_storm	0.25
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.25
+http://dbpedia.org/page/Climate_change	0.25
+http://dbpedia.org/page/Jersey_Shore	0.25
+http://dbpedia.org/page/Brooklyn	0.25

@@ -1,0 +1,3 @@
+51284165cf28d009de0018e9	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+512833b7cf28d009de0018c4	http://dbpedia.org/page/Jersey_Shore
+512833b7cf28d009de0018c4	http://dbpedia.org/page/Hurricane_Sandy_(2012)

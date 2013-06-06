@@ -1,0 +1,14 @@
+50db28db00315214fbb81370	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50db28db00315214fbb81370	http://dbpedia.org/page/Brooklyn
+50db137600315214fbb81340	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50db137600315214fbb81340	http://dbpedia.org/page/Brooklyn
+50db22bf00315214fbb81361	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50db22bf00315214fbb81361	http://dbpedia.org/page/Brooklyn
+50da1a0700315214fbb8125b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50dafba100315214fbb81321	http://dbpedia.org/page/Queens
+50dafba100315214fbb81321	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50da1c9f00315214fbb8125e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50da62b300315214fbb812a9	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50da62b300315214fbb812a9	http://dbpedia.org/page/Brooklyn
+50dacc8800315214fbb812f5	http://dbpedia.org/page/Brooklyn
+50da565100315214fbb81299	http://dbpedia.org/page/Coney_Island

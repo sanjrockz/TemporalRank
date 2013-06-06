@@ -1,0 +1,4 @@
+50be622a00315214fbb7d38e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50be622900315214fbb7d358	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50be622900315214fbb7d326	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+515b240ffdc59278db00651d	http://dbpedia.org/page/Chicago

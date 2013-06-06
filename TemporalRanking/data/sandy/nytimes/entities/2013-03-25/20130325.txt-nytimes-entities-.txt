@@ -1,0 +1,3 @@
+514f9d77fdc5926e770020d3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+514f9d77fdc5926e770020d3	http://dbpedia.org/page/Coney_Island
+514f9d77fdc5926e770020d3	http://dbpedia.org/page/Brooklyn

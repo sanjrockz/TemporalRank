@@ -1,0 +1,5 @@
+50dcb6f600315214fbb81629	http://dbpedia.org/page/Langone_Medical_Center
+50dcb6f600315214fbb81629	http://dbpedia.org/page/NYU
+50dcc44900315214fbb8164c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50db26bd00315214fbb8136a	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50dc75bb00315214fbb81583	http://dbpedia.org/page/Queens

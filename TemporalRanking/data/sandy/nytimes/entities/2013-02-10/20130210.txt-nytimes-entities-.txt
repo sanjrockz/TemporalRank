@@ -1,0 +1,7 @@
+5117dd0b00315214fbb8a393	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5117d98300315214fbb8a378	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+511d65ec00315214fbb8ba20	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51208e1bcf28d009de0003e1	http://dbpedia.org/page/Staten_Island
+5117e68600315214fbb8a3c4	http://dbpedia.org/page/Northeastern_States
+5117e68600315214fbb8a3c4	http://dbpedia.org/page/Gale
+51189e5100315214fbb8a564	http://dbpedia.org/page/Puerto_Rico

@@ -1,0 +1,6 @@
+5132c4a4cf28d009de0031c0	http://dbpedia.org/page/Queens
+5132c4a4cf28d009de0031c0	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51341b23cf28d009de003385	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51341b23cf28d009de003385	http://dbpedia.org/page/Red_Cross
+51341b23cf28d009de003385	http://dbpedia.org/page/American_Red_Cross
+5133a102cf28d009de0032b4	http://dbpedia.org/page/President_Obama

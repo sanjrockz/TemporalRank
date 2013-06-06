@@ -1,0 +1,3 @@
+50fd6e3200315214fbb863b6	http://dbpedia.org/page/Brooklyn
+50fca6e900315214fbb86238	http://dbpedia.org/page/Staten_Island
+50fe479800315214fbb8642e	http://dbpedia.org/page/Climate_change

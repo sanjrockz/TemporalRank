@@ -1,0 +1,8 @@
+50eb884f00315214fbb82eac	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50eba03700315214fbb82ee6	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50eba03700315214fbb82ee6	http://dbpedia.org/page/Weather
+50eba79400315214fbb82ef1	http://dbpedia.org/page/Consolidated_Edison
+50eba79400315214fbb82ef1	http://dbpedia.org/page/Long_Island
+50ed27cb00315214fbb83132	http://dbpedia.org/page/Chris_Christie
+50eb926b00315214fbb82ec4	http://dbpedia.org/page/Queens
+50eb926b00315214fbb82ec4	http://dbpedia.org/page/Manhattan

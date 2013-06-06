@@ -1,0 +1,2 @@
+http://dbpedia.org/page/Chicago	0.25
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.25

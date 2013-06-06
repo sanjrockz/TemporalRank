@@ -1,0 +1,7 @@
+51164dde00315214fbb8a237	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+511650b100315214fbb8a24a	http://dbpedia.org/page/Michael_R._Bloomberg
+515b0655fdc59278db006367	http://dbpedia.org/page/East_River
+515b0655fdc59278db006367	http://dbpedia.org/page/Manhattan
+511418e900315214fbb89ee3	http://dbpedia.org/page/Manhattan
+511418e900315214fbb89ee3	http://dbpedia.org/page/Coney_Island
+511418e900315214fbb89ee3	http://dbpedia.org/page/Brooklyn

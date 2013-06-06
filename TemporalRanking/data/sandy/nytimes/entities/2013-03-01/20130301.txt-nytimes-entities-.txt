@@ -1,0 +1,6 @@
+51316775cf28d009de002fc4	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51316775cf28d009de002fc4	http://dbpedia.org/page/Brooklyn
+515326c3fdc5926e77002a61	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5131539acf28d009de002f8b	http://dbpedia.org/page/Brooklyn
+51303ce1cf28d009de002c1f	http://dbpedia.org/page/White_House
+512fae4fcf28d009de002a18	http://dbpedia.org/page/FEMA

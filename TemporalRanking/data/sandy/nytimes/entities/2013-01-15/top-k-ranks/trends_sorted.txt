@@ -1,0 +1,5 @@
+http://dbpedia.org/page/Atlantic	0.25
+http://dbpedia.org/page/Tropical_storm	0.25
+http://dbpedia.org/page/Jersey_Shore	0.25
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.08333333333333337
+http://dbpedia.org/page/Climate_change	-0.08333333333333331

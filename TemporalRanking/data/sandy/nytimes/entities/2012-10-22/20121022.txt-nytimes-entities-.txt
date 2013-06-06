@@ -1,0 +1,5 @@
+5087264b95e998af71187905	http://dbpedia.org/page/Jamaica
+5087264b95e998af71187905	http://dbpedia.org/page/Tropical_storm
+5087264e95e998af71187a35	http://dbpedia.org/page/Jamaica
+5087264e95e998af71187a35	http://dbpedia.org/page/Tropical_storm
+5087264e95e998af71187a35	http://dbpedia.org/page/Atlantic

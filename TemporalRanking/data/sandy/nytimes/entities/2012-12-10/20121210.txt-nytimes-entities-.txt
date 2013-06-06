@@ -1,0 +1,8 @@
+50c5541400315214fbb7e8b9	http://dbpedia.org/page/Tropical_storm
+50c5541400315214fbb7e8b9	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c6447300315214fbb7eaf4	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c6447300315214fbb7eaf4	http://dbpedia.org/page/Climate_change
+50c5204900315214fbb7e858	http://dbpedia.org/page/Lower_Manhattan
+50c5204900315214fbb7e858	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c55a5700315214fbb7e8c4	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c55cb200315214fbb7e8cb	http://dbpedia.org/page/Hurricane_Sandy_(2012)

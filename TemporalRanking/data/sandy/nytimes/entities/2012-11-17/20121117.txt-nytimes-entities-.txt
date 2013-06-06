@@ -1,0 +1,14 @@
+50a6e72000315214fbb7aecc	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+515b29d9fdc59278db0065b0	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a6591900315214fbb7ad14	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a6899a00315214fbb7adbd	http://dbpedia.org/page/Staten_Island
+50a6899a00315214fbb7adbd	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a6fc0900315214fbb7af00	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a69e4300315214fbb7ae03	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a702c600315214fbb7af13	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a66bd600315214fbb7ad5e	http://dbpedia.org/page/Breezy_Point,_Queens
+50a66bd600315214fbb7ad5e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a7ee0300315214fbb7b032	http://dbpedia.org/page/Tropical_storm
+50a7ee0300315214fbb7b032	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a7dcad00315214fbb7b00f	http://dbpedia.org/page/Tropical_storm
+50a7dcad00315214fbb7b00f	http://dbpedia.org/page/Hurricane_Sandy_(2012)

@@ -1,0 +1,7 @@
+50e3c89b00315214fbb82000	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e38d4700315214fbb81fb7	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e38d4700315214fbb81fb7	http://dbpedia.org/page/Brooklyn
+50e461f200315214fbb820e4	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e3cc5d00315214fbb82005	http://dbpedia.org/page/Chris_Christie
+50e4c5c700315214fbb821e4	http://dbpedia.org/page/President_Obama
+50e4ac3c00315214fbb821a3	http://dbpedia.org/page/White_House

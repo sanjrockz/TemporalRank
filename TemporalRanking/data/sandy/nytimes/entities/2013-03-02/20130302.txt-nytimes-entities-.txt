@@ -1,0 +1,6 @@
+5131770dcf28d009de002fe4	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51316570cf28d009de002fbc	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51316570cf28d009de002fbc	http://dbpedia.org/page/Brooklyn
+5130de5fcf28d009de002dc2	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5130de5fcf28d009de002dc2	http://dbpedia.org/page/Brooklyn
+5131d4becf28d009de003070	http://dbpedia.org/page/Canada

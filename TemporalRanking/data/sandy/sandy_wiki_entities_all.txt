@@ -1,0 +1,575 @@
+519484112	Hurricane Sandy	1	100	2012-10-23 23:59:59	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+519484112	Hurricane Nadine (2012)	271	32.47	2012-10-23 23:59:59	http://dbpedia.org/page/Hurricane_Nadine_(2012)
+519484112	Saffir�Simpson Hurricane Scale	1282	37.44	2012-10-23 23:59:59	http://dbpedia.org/page/Saffir%E2%80%93Simpson_hurricane_wind_scale
+519484112	Nautical mile	1521	0.92	2012-10-23 23:59:59	http://dbpedia.org/page/Nautical_mile
+519484112	2012 Atlantic hurricane season	6109	24.44	2012-10-23 23:59:59	http://dbpedia.org/page/2012_Atlantic_hurricane_season
+519484112	Rapid deepening	56	37.5	2012-10-23 23:59:59	http://dbpedia.org/page/Rapid_deepening
+519484112	Kingston, Jamaica	1176	5.1	2012-10-23 23:59:59	http://dbpedia.org/page/Category:Kingston,_Jamaica
+519484112	Hurricane Ernesto (2012)	91	37.36	2012-10-23 23:59:59	http://dbpedia.org/page/Hurricane_Ernesto_(2012)
+519484112	Portal:Tropical cyclones	188	13.3	2012-10-23 23:59:59	http://dbpedia.org/page/Tropical_cyclone
+519484112	Rainband	51	17.65	2012-10-23 23:59:59	http://dbpedia.org/page/Rainband
+519484112	Camag�ey	293	40.61	2012-10-23 23:59:59	http://dbpedia.org/page/Camag%C3%BCey
+519484112	Eastern Daylight Time	786	4.33	2012-10-23 23:59:59	http://dbpedia.org/page/Eastern_Daylight_Time
+519484112	Hurricane Hunters	169	36.69	2012-10-23 23:59:59	http://dbpedia.org/page/Hurricane_Hunters
+519484112	Sea surface temperature	286	8.04	2012-10-23 23:59:59	http://dbpedia.org/page/Sea_surface_temperature
+519484112	Low pressure area	58	12.07	2012-10-23 23:59:59	http://dbpedia.org/page/Low-pressure_area
+519484112	Caribbean Sea	1026	14.13	2012-10-23 23:59:59	http://dbpedia.org/page/Caribbean_Sea
+519484112	Tropical cyclone	3913	15.38	2012-10-23 23:59:59	http://dbpedia.org/page/Tropical_cyclone
+519484112	Outflow (meteorology)	18	22.22	2012-10-23 23:59:59	http://dbpedia.org/page/Outflow_(meteorology)
+519484112	InHg	27	29.63	2012-10-23 23:59:59	http://dbpedia.org/page/Inch_of_mercury
+519484112	Gulf of Mexico	1339	16.43	2012-10-23 23:59:59	http://dbpedia.org/page/Gulf_of_Mexico
+519484112	Hurricane Isaac (2012)	1979	28.45	2012-10-23 23:59:59	http://dbpedia.org/page/Hurricane_Isaac_(2012)
+519484112	Saffir�Simpson hurricane scale	1282	37.44	2012-10-23 23:59:59	http://dbpedia.org/page/Saffir%E2%80%93Simpson_hurricane_wind_scale
+519484112	The Bahamas	4475	0.45	2012-10-23 23:59:59	http://dbpedia.org/page/The_Bahamas
+519484112	Tropical Storm Beryl (2012)	82	26.83	2012-10-23 23:59:59	http://dbpedia.org/page/Tropical_Storm_Beryl_(2012)
+519484112	Jamaica	9366	12.41	2012-10-23 23:59:59	http://dbpedia.org/page/Jamaica
+519484112	Tropical cyclogenesis	77	9.09	2012-10-23 23:59:59	http://dbpedia.org/page/Tropical_cyclogenesis
+519484112	Santiago de Cuba	434	17.74	2012-10-23 23:59:59	http://dbpedia.org/page/Santiago_de_Cuba
+519484112	Knot (speed)	23	8.7	2012-10-23 23:59:59	http://dbpedia.org/page/Knot_(unit)
+519484112	Mbar	19	15.79	2012-10-23 23:59:59	http://dbpedia.org/page/Bar_(unit)
+519484112	Tropical Storm Debby (2012)	143	6.99	2012-10-23 23:59:59	http://dbpedia.org/page/Tropical_Storm_Debby_(2012)
+519484112	HPa	81	18.52	2012-10-23 23:59:59	http://dbpedia.org/page/HPA
+519484112	Atmospheric pressure	5368	4.62	2012-10-23 23:59:59	http://dbpedia.org/page/Atmospheric_pressure
+519667694	Key Largo	210	1.9	2012-10-24 23:59:59	http://dbpedia.org/page/Key_Largo
+519667694	Long Island, Bahamas	84	3.57	2012-10-24 23:59:59	http://dbpedia.org/page/Long_Island,_Bahamas
+519667694	Sebastian Inlet	57	38.6	2012-10-24 23:59:59	http://dbpedia.org/page/Sebastian_Inlet
+519852783	Port-au-Prince	708	1.55	2012-10-25 23:59:59	http://dbpedia.org/page/Port-au-Prince	
+519852783	Fernandina Beach, Florida	177	45.76	2012-10-25 23:59:59	http://dbpedia.org/page/Fernandina_Beach,_Florida
+519852783	Guantanamo Bay Naval Base	3302	27.83	2012-10-25 23:59:59	http://dbpedia.org/page/Guantanamo_Bay_Naval_Base
+519852783	Cite Soleil	8	50	2012-10-25 23:59:59	http://dbpedia.org/page/Cit%C3%A9_Soleil
+519852783	Port-Salut	59	77.97	2012-10-25 23:59:59	http://dbpedia.org/page/Port-Salut
+519852783	Camp Perrin	49	100	2012-10-25 23:59:59	http://dbpedia.org/page/Camp-Perrin
+519852783	Pedro Cays	66	40.91	2012-10-25 23:59:59	http://dbpedia.org/page/Pedro_Bank
+519852783	Lake Okeechobee	596	15.1	2012-10-25 23:59:59	http://dbpedia.org/page/Lake_Okeechobee
+519852783	United States East Coast	72	88.89	2012-10-25 23:59:59	http://dbpedia.org/page/East_Coast_of_the_United_States
+519852783	Guantanamo	96	15.62	2012-10-25 23:59:59	http://dbpedia.org/page/Guant%C3%A1namo
+519852783	Hydrometeorological Prediction Center	40	27.5	2012-10-25 23:59:59	http://dbpedia.org/page/Hydrometeorological_Prediction_Center
+520040719	Canadian Hurricane Centre	105	77.14	2012-10-26 23:59:59	http://dbpedia.org/page/Canadian_Hurricane_Centre
+520040719	Duck, North Carolina	62	41.94	2012-10-26 23:59:59	http://dbpedia.org/page/Duck,_North_Carolina
+520040719	Hurricane Hazel	3501	43.24	2012-10-26 23:59:59	http://dbpedia.org/page/Hurricane_Hazel
+520040719	Pamlico Sound	183	56.28	2012-10-26 23:59:59	http://dbpedia.org/page/Pamlico_Sound
+520040719	Great Abaco Island	192	97.4	2012-10-26 23:59:59	http://dbpedia.org/page/Abaco_Islands
+520040719	Michael Nutter	181	19.89	2012-10-26 23:59:59	http://dbpedia.org/page/Michael_Nutter
+520040719	Nor'easter	13438	31.75	2012-10-26 23:59:59	http://dbpedia.org/page/Nor'easter
+520040719	Deerfield Beach	15	13.33	2012-10-26 23:59:59	http://dbpedia.org/page/Deerfield_Beach,_Florida
+520040719	Atlanta Journal-Constitution	49	2.04	2012-10-26 23:59:59	http://dbpedia.org/page/The_Atlanta_Journal-Constitution
+520040719	Eastern Canada	418	43.78	2012-10-26 23:59:59	http://dbpedia.org/page/Eastern_Canada
+520040719	1991 Perfect Storm	71092	49.45	2012-10-26 23:59:59	http://dbpedia.org/page/1991_Perfect_Storm
+520040719	West End, Grand Bahama	58	53.45	2012-10-26 23:59:59	http://dbpedia.org/page/West_End,_Grand_Bahama
+520040719	Mantoloking, New Jersey	59	47.46	2012-10-26 23:59:59	http://dbpedia.org/page/Mantoloking,_New_Jersey
+520040719	Gale	2421	8.43	2012-10-26 23:59:59	http://dbpedia.org/page/Gale
+520040719	Albemarle Sound	75	33.33	2012-10-26 23:59:59	http://dbpedia.org/page/Albemarle_Sound
+520040719	Vincent Gray	10	50	2012-10-26 23:59:59	http://dbpedia.org/page/Vincent_Gray
+520040719	Guantanamo Province	25	100	2012-10-26 23:59:59	http://dbpedia.org/page/Guantanamo_Province
+520040719	Southern Ontario	374	29.95	2012-10-26 23:59:59	http://dbpedia.org/page/Southern_Ontario
+520040719	Canadian Maritimes	64	17.19	2012-10-26 23:59:59	http://dbpedia.org/page/Canadian_Maritimes
+520040719	South Santee River	17	100	2012-10-26 23:59:59	http://dbpedia.org/page/South_Santee_River
+520040719	Hurricane Paloma	441	83.67	2012-10-26 23:59:59	http://dbpedia.org/page/Hurricane_Paloma
+520040719	Jersey Central Power & Light	48	100	2012-10-26 23:59:59	http://dbpedia.org/page/Jersey_Central_Power_&_Light
+520040719	Michael R. Bloomberg	80	88.75	2012-10-26 23:59:59	http://dbpedia.org/page/Michael_R._Bloomberg
+520040719	Treasure Coast	323	31.89	2012-10-26 23:59:59	http://dbpedia.org/page/Treasure_Coast
+520040719	FEMA	282	34.4	2012-10-26 23:59:59	http://dbpedia.org/page/FEMA
+520040719	Moniker	199	14.07	2012-10-26 23:59:59	http://dbpedia.org/page/Moniker
+520040719	Hurricane Dennis	406	44.83	2012-10-26 23:59:59	http://dbpedia.org/page/Hurricane_Dennis
+520040719	Hurricane Irene	14225	60.36	2012-10-26 23:59:59	http://dbpedia.org/page/Hurricane_Irene
+520040719	Grand Bahama Island	35	74.29	2012-10-26 23:59:59	http://dbpedia.org/page/Grand_Bahama_Island
+520040719	Cape May County, New Jersey	130	12.31	2012-10-26 23:59:59	http://dbpedia.org/page/Cape_May_County,_New_Jersey
+520186276	Long Beach, New Jersey	7	85.71	2012-10-27 23:59:59	http://dbpedia.org/page/Long_Beach,_New_Jersey
+520186276	Bay Head, New Jersey	54	44.44	2012-10-27 23:59:59	http://dbpedia.org/page/Bay_Head,_New_Jersey
+520186276	Barnegat Light, New Jersey	54	22.22	2012-10-27 23:59:59	http://dbpedia.org/page/Barnegat_Light,_New_Jersey
+520186276	Ship Bottom, New Jersey	190	92.63	2012-10-27 23:59:59	http://dbpedia.org/page/Ship_Bottom,_New_Jersey
+520186276	Harvey Cedars, New Jersey	27	29.63	2012-10-27 23:59:59	http://dbpedia.org/page/Harvey_Cedars,_New_Jersey
+520186276	Norfolk Naval Base	207	93.24	2012-10-27 23:59:59	http://dbpedia.org/page/Norfolk_Naval_Base
+520186276	Santee River	112	58.04	2012-10-27 23:59:59	http://dbpedia.org/page/Santee_River
+520186276	Barrier islands	149	84.56	2012-10-27 23:59:59	http://dbpedia.org/page/Barrier_islands
+520186276	Chris Christie	2423	49.2	2012-10-27 23:59:59	http://dbpedia.org/page/Chris_Christie
+520186276	Dan Malloy	392	19.13	2012-10-27 23:59:59	http://dbpedia.org/page/Dannel_Malloy
+520186276	Atlantic City, New Jersey	1928	17.17	2012-10-27 23:59:59	http://dbpedia.org/page/Atlantic_City,_New_Jersey
+520186276	Coast Guard	278	16.55	2012-10-27 23:59:59	http://dbpedia.org/page/Coast_Guard
+520186276	Cape May, New Jersey	371	24.53	2012-10-27 23:59:59	http://dbpedia.org/page/Cape_May,_New_Jersey
+520186276	Office of Personnel Management	90	57.78	2012-10-27 23:59:59	http://dbpedia.org/page/Office_of_Personnel_Management
+520186276	Delaware	3457	2.26	2012-10-27 23:59:59	http://dbpedia.org/page/Delaware
+520186276	Smith Island, Maryland	78	21.79	2012-10-27 23:59:59	http://dbpedia.org/page/Smith_Island,_Maryland
+520186276	Sandy Hook	536	50.37	2012-10-27 23:59:59	http://dbpedia.org/page/Sandy_Hook
+520186276	Beach Haven, New Jersey	66	43.94	2012-10-27 23:59:59	http://dbpedia.org/page/Beach_Haven,_New_Jersey
+520186276	Gale warning	149	7.38	2012-10-27 23:59:59	http://dbpedia.org/page/Gale_warning
+520186276	Occluded front	199	0.5	2012-10-27 23:59:59	http://dbpedia.org/page/Occluded_front
+520186276	Saffir-Simpson Hurricane Scale	904	27.99	2012-10-27 23:59:59	http://dbpedia.org/page/Saffir%E2%80%93Simpson_hurricane_wind_scale
+520345607	Virginia Beach, Virginia	1013	21.22	2012-10-28 23:59:59	http://dbpedia.org/page/Virginia_Beach,_Virginia
+520345607	Atlantic City Expressway	150	35.33	2012-10-28 23:59:59	http://dbpedia.org/page/Atlantic_City_Expressway
+520345607	New England	8258	37.01	2012-10-28 23:59:59	http://dbpedia.org/page/New_England
+520345607	Frankenstein	11024	19.63	2012-10-28 23:59:59	http://dbpedia.org/page/Frankenstein
+520345607	Rhode Island Sound	49	61.22	2012-10-28 23:59:59	http://dbpedia.org/page/Rhode_Island_Sound
+520345607	List of Virginia hurricanes	37	64.86	2012-10-28 23:59:59	http://dbpedia.org/page/List_of_Virginia_hurricanes
+520345607	United States Air Force	3494	0.57	2012-10-28 23:59:59	http://dbpedia.org/page/United_States_Air_Force
+520345607	Fire Island	2271	54.12	2012-10-28 23:59:59	http://dbpedia.org/page/Fire_Island
+520345607	Garden State Parkway	474	19.2	2012-10-28 23:59:59	http://dbpedia.org/page/Garden_State_Parkway
+520345607	List of North Carolina hurricanes	509	27.7	2012-10-28 23:59:59	http://dbpedia.org/page/List_of_North_Carolina_hurricanes
+520345607	Juana D�az, Puerto Rico	272	81.62	2012-10-28 23:59:59	http://dbpedia.org/page/Category:Juana_D%C3%ADaz,_Puerto_Rico
+520345607	Long Island Sound	1416	71.4	2012-10-28 23:59:59	http://dbpedia.org/page/Long_Island_Sound
+520345607	National Grid plc	182	25.82	2012-10-28 23:59:59	http://dbpedia.org/page/National_Grid_plc
+520345607	Surf City, North Carolina	76	55.26	2012-10-28 23:59:59	http://dbpedia.org/page/Surf_City,_North_Carolina
+520345607	Southern Tier	215	51.63	2012-10-28 23:59:59	http://dbpedia.org/page/Southern_Tier
+520345607	Hurricane force wind warning	293	77.47	2012-10-28 23:59:59	http://dbpedia.org/page/Hurricane_force_wind_warning
+520345607	NASA	3802	6.29	2012-10-28 23:59:59	http://dbpedia.org/page/NASA
+520345607	Currituck Beach Light	42	42.86	2012-10-28 23:59:59	http://dbpedia.org/page/Currituck_Beach_Light
+520345607	Chincoteague Bay	48	79.17	2012-10-28 23:59:59	http://dbpedia.org/page/Chincoteague_Bay
+520345607	Colorado Springs, Colorado	1187	3.2	2012-10-28 23:59:59	http://dbpedia.org/page/Colorado_Springs,_Colorado
+520345607	Long Island	5611	37.66	2012-10-28 23:59:59	http://dbpedia.org/page/Long_Island
+520345607	Suffolk County, New York	667	32.98	2012-10-28 23:59:59	http://dbpedia.org/page/Suffolk_County,_New_York
+520345607	Chesapeake Bay	1576	28.24	2012-10-28 23:59:59	http://dbpedia.org/page/Chesapeake_Bay
+520345607	Lincoln Chafee	461	32.54	2012-10-28 23:59:59	http://dbpedia.org/page/Lincoln_Chafee
+520345607	List of New Jersey hurricanes	5594	45.33	2012-10-28 23:59:59	http://dbpedia.org/page/List_of_New_Jersey_hurricanes
+520345607	Washington, DC	391	3.58	2012-10-28 23:59:59	http://dbpedia.org/page/Washington,_DC
+520345607	Cape Hatteras	1251	67.55	2012-10-28 23:59:59	http://dbpedia.org/page/Cape_Hatteras
+520345607	Rhode Island	4576	23.14	2012-10-28 23:59:59	http://dbpedia.org/page/Rhode_Island
+520345607	United States Government	198	14.14	2012-10-28 23:59:59	http://dbpedia.org/page/United_States_Government
+520345607	Johns Hopkins University	1133	4.41	2012-10-28 23:59:59	http://dbpedia.org/page/Johns_Hopkins_University
+520345607	National Guard of the United States	1081	25.16	2012-10-28 23:59:59	http://dbpedia.org/page/National_Guard_of_the_United_States
+520345607	Republican Party (United States)	12325	5.44	2012-10-28 23:59:59	http://dbpedia.org/page/Republican_Party_(United_States)
+520345607	Metropolitan Transportation Authority (New York)	857	55.66	2012-10-28 23:59:59	http://dbpedia.org/page/Metropolitan_Transportation_Authority_(New_York)
+520345607	Amtrak	1871	26.35	2012-10-28 23:59:59	http://dbpedia.org/page/Amtrak
+520345607	Storm warning	131	63.36	2012-10-28 23:59:59	http://dbpedia.org/page/Storm_warning
+520345607	Washington Post	392	18.62	2012-10-28 23:59:59	http://dbpedia.org/page/Washington_Post
+520345607	List of New York hurricanes	8534	59.69	2012-10-28 23:59:59	http://dbpedia.org/page/List_of_New_York_hurricanes
+520345607	Storm surge	7025	65.28	2012-10-28 23:59:59	http://dbpedia.org/page/Storm_surge
+520345607	Category 1 hurricane	2332	90.99	2012-10-28 23:59:59	http://dbpedia.org/page/Category_1_hurricane
+520345607	Washington Metropolitan Area Transit Authority	124	17.74	2012-10-28 23:59:59	http://dbpedia.org/page/Washington_Metropolitan_Area_Transit_Authority
+520345607	Raritan Bay	876	87.79	2012-10-28 23:59:59	http://dbpedia.org/page/Raritan_Bay
+520345607	Conowingo Dam	681	83.26	2012-10-28 23:59:59	http://dbpedia.org/page/Conowingo_Dam
+520345607	Bill Clinton	14048	7.57	2012-10-28 23:59:59	http://dbpedia.org/page/Bill_Clinton
+520511386	Delaware Route 1	225	55.56	2012-10-29 23:59:59	http://dbpedia.org/page/Delaware_Route_1
+520511386	Nassau Community College	179	64.8	2012-10-29 23:59:59	http://dbpedia.org/page/Nassau_Community_College
+520511386	Delaware Bay	871	57.75	2012-10-29 23:59:59	http://dbpedia.org/page/Delaware_Bay
+520511386	One57	10409	98.95	2012-10-29 23:59:59	http://dbpedia.org/page/One57
+520511386	Cleveland Hopkins International Airport	317	20.5	2012-10-29 23:59:59	http://dbpedia.org/page/Cleveland_Hopkins_International_Airport
+520511386	Dewey Beach	9	55.56	2012-10-29 23:59:59	http://dbpedia.org/page/Dewey_Beach
+520511386	Holland Tunnel	3066	84.31	2012-10-29 23:59:59	http://dbpedia.org/page/Holland_Tunnel
+520511386	New York Harbor	2628	57.76	2012-10-29 23:59:59	http://dbpedia.org/page/New_York_Harbor
+520511386	1993 Storm of the Century	11935	68.75	2012-10-29 23:59:59	http://dbpedia.org/page/1993_Storm_of_the_Century
+520511386	Facebook	81714	4.66	2012-10-29 23:59:59	http://dbpedia.org/page/Facebook
+520511386	Martha's Vineyard	2876	44.02	2012-10-29 23:59:59	http://dbpedia.org/page/Martha's_Vineyard
+520511386	Bob McDonnell	1152	31.25	2012-10-29 23:59:59	http://dbpedia.org/page/Bob_McDonnell
+520511386	Brooklyn Battery Tunnel	238	94.96	2012-10-29 23:59:59	http://dbpedia.org/page/Brooklyn_Battery_Tunnel
+520511386	Maryland Transportation Authority	156	87.18	2012-10-29 23:59:59	http://dbpedia.org/page/Maryland_Transportation_Authority
+520511386	Vermont National Guard	117	86.32	2012-10-29 23:59:59	http://dbpedia.org/page/Vermont_National_Guard
+520511386	Port Authority Bus Terminal	280	55	2012-10-29 23:59:59	http://dbpedia.org/page/Port_Authority_Bus_Terminal
+520511386	United States Office of Personnel Management	233	49.79	2012-10-29 23:59:59	http://dbpedia.org/page/United_States_Office_of_Personnel_Management
+520511386	Conservation authority (Canada)	28	85.71	2012-10-29 23:59:59	http://dbpedia.org/page/Conservation_authority_(Canada)
+520511386	Susquehanna River	1315	54.14	2012-10-29 23:59:59	http://dbpedia.org/page/Susquehanna_River
+520511386	Overdraft	1026	44.15	2012-10-29 23:59:59	http://dbpedia.org/page/Overdraft
+520511386	Army National Guard	564	29.96	2012-10-29 23:59:59	http://dbpedia.org/page/Army_National_Guard
+520511386	Barrier island	5544	71.95	2012-10-29 23:59:59	http://dbpedia.org/page/Barrier_island
+520511386	Hatteras Island	839	53.28	2012-10-29 23:59:59	http://dbpedia.org/page/Hatteras_Island
+520511386	George Washington Bridge	1560	47.69	2012-10-29 23:59:59	http://dbpedia.org/page/George_Washington_Bridge
+520511386	Southold (town), New York	181	59.12	2012-10-29 23:59:59	http://dbpedia.org/page/Southold_(town),_New_York
+520511386	Kenmore Square	193	79.79	2012-10-29 23:59:59	http://dbpedia.org/page/Kenmore_Square
+520511386	MBTA	235	56.6	2012-10-29 23:59:59	http://dbpedia.org/page/MBTA
+520511386	Supreme Court of the United States	5579	38.11	2012-10-29 23:59:59	http://dbpedia.org/page/Supreme_Court_of_the_United_States
+520511386	John F. Kennedy International Airport	3918	36.78	2012-10-29 23:59:59	http://dbpedia.org/page/John_F._Kennedy_International_Airport
+520511386	Category 2 hurricane	410	96.59	2012-10-29 23:59:59	http://dbpedia.org/page/Category_2_hurricane
+520511386	Late fees	61	96.72	2012-10-29 23:59:59	http://dbpedia.org/page/Late_fees
+520511386	U.S. Air Force	259	45.56	2012-10-29 23:59:59	http://dbpedia.org/page/U.S._Air_Force
+520511386	Delta Air Lines	2596	17.06	2012-10-29 23:59:59	http://dbpedia.org/page/Delta_Air_Lines
+520511386	Delmarva Power	36	61.11	2012-10-29 23:59:59	http://dbpedia.org/page/Delmarva_Power
+520511386	Tappan Zee Bridge	3164	79.68	2012-10-29 23:59:59	http://dbpedia.org/page/Tappan_Zee_Bridge
+520511386	Cobb Island	70	92.86	2012-10-29 23:59:59	http://dbpedia.org/page/Cobb_Island
+520511386	Sussex	689	11.18	2012-10-29 23:59:59	http://dbpedia.org/page/Sussex
+520511386	Newark Liberty International Airport	1651	29.44	2012-10-29 23:59:59	http://dbpedia.org/page/Newark_Liberty_International_Airport
+520511386	Bev Perdue	720	59.72	2012-10-29 23:59:59	http://dbpedia.org/page/Bev_Perdue
+520511386	United States National Guard	282	53.9	2012-10-29 23:59:59	http://dbpedia.org/page/United_States_National_Guard
+520511386	Metro-North Railroad	546	15.38	2012-10-29 23:59:59	http://dbpedia.org/page/Metro-North_Railroad
+520511386	Automated teller machine	2907	25.28	2012-10-29 23:59:59	http://dbpedia.org/page/Automated_teller_machine
+520511386	Blizzard of 1978	564	54.08	2012-10-29 23:59:59	http://dbpedia.org/page/Blizzard_of_1978
+520511386	Template:Cite web	156	19.23	2012-10-29 23:59:59	http://dbpedia.org/page/Template:Cite_web
+520511386	Sunrise Highway	123	85.37	2012-10-29 23:59:59	http://dbpedia.org/page/Sunrise_Highway
+520511386	Wicomico County, Maryland	118	35.59	2012-10-29 23:59:59	http://dbpedia.org/page/Wicomico_County,_Maryland
+520511386	MARC Train	254	33.86	2012-10-29 23:59:59	http://dbpedia.org/page/MARC_Train
+520511386	Lewes, Delaware	381	52.49	2012-10-29 23:59:59	http://dbpedia.org/page/Lewes,_Delaware
+520511386	Logan Township	54	94.44	2012-10-29 23:59:59	http://dbpedia.org/page/Logan_Township
+520511386	Indian River Inlet	14	64.29	2012-10-29 23:59:59	http://dbpedia.org/page/Indian_River_Inlet
+520511386	2010�2011 Haiti cholera outbreak	328	82.01	2012-10-29 23:59:59	http://dbpedia.org/page/2010%E2%80%932011_Haiti_cholera_outbreak
+520511386	Molloy College	93	67.74	2012-10-29 23:59:59	http://dbpedia.org/page/Molloy_College
+520511386	Starbucks	6470	23.34	2012-10-29 23:59:59	http://dbpedia.org/page/Starbucks
+520511386	Baltimore	5896	34.91	2012-10-29 23:59:59	http://dbpedia.org/page/Baltimore
+520511386	Federal Aviation Administration	694	29.39	2012-10-29 23:59:59	http://dbpedia.org/page/Federal_Aviation_Administration
+520511386	Smithsonian Institution	1231	25.91	2012-10-29 23:59:59	http://dbpedia.org/page/Smithsonian_Institution
+520511386	East River	2143	73.26	2012-10-29 23:59:59	http://dbpedia.org/page/East_River
+520511386	Linda D. Thompson	243	83.95	2012-10-29 23:59:59	http://dbpedia.org/page/Linda_D._Thompson
+520511386	New Mexico	4324	11.91	2012-10-29 23:59:59	http://dbpedia.org/page/New_Mexico
+520511386	Dominican Republic	8313	25.11	2012-10-29 23:59:59	http://dbpedia.org/page/Dominican_Republic
+520511386	CUNY	170	68.24	2012-10-29 23:59:59	http://dbpedia.org/page/CUNY
+520511386	Riverhead (town), New York	400	81	2012-10-29 23:59:59	http://dbpedia.org/page/Riverhead_(town),_New_York
+520511386	Battery Park	12429	86.72	2012-10-29 23:59:59	http://dbpedia.org/page/Battery_Park
+520511386	Indiana	3501	19.77	2012-10-29 23:59:59	http://dbpedia.org/page/Indiana
+520511386	Weather Underground (weather service)	605	50.08	2012-10-29 23:59:59	http://dbpedia.org/page/Weather_Underground_(weather_service)
+520511386	Virginia National Guard	39	46.15	2012-10-29 23:59:59	http://dbpedia.org/page/Virginia_National_Guard
+520511386	Jack Markell	901	71.81	2012-10-29 23:59:59	http://dbpedia.org/page/Jack_Markell
+520511386	Massachusetts Emergency Management Agency	56	25	2012-10-29 23:59:59	http://dbpedia.org/page/Massachusetts_Emergency_Management_Agency
+520511386	Blizzard Warning	390	80.51	2012-10-29 23:59:59	http://dbpedia.org/page/Blizzard_Warning
+520511386	Weymouth, Massachusetts	180	31.11	2012-10-29 23:59:59	http://dbpedia.org/page/Weymouth,_Massachusetts
+520511386	Vincent C. Gray	548	34.67	2012-10-29 23:59:59	http://dbpedia.org/page/Vincent_C._Gray
+520511386	Delaware Memorial Bridge	368	43.21	2012-10-29 23:59:59	http://dbpedia.org/page/Delaware_Memorial_Bridge
+520511386	Merrimack River	370	52.43	2012-10-29 23:59:59	http://dbpedia.org/page/Merrimack_River
+520511386	Tennessee	4026	25.91	2012-10-29 23:59:59	http://dbpedia.org/page/Tennessee
+520511386	Lake Erie	2164	58.32	2012-10-29 23:59:59	http://dbpedia.org/page/Lake_Erie
+520511386	Bounty (1960 ship)	31138	99.76	2012-10-29 23:59:59	http://dbpedia.org/page/Bounty_(1960_ship)
+520511386	North Shore (Long Island)	482	51.66	2012-10-29 23:59:59	http://dbpedia.org/page/North_Shore_(Long_Island)
+520511386	Dawn Zimmer	465	83.66	2012-10-29 23:59:59	http://dbpedia.org/page/Dawn_Zimmer
+520511386	New Castle County	12	16.67	2012-10-29 23:59:59	http://dbpedia.org/page/New_Castle_County
+520511386	Port Authority Trans-Hudson	621	41.55	2012-10-29 23:59:59	http://dbpedia.org/page/Port_Authority_Trans-Hudson
+520511386	Nassau County, New York	1379	38.65	2012-10-29 23:59:59	http://dbpedia.org/page/Nassau_County,_New_York
+520511386	Delaware Seashore State Park	106	90.57	2012-10-29 23:59:59	http://dbpedia.org/page/Delaware_Seashore_State_Park
+520511386	Federal Emergency Management Agency	5912	72.89	2012-10-29 23:59:59	http://dbpedia.org/page/Federal_Emergency_Management_Agency
+520511386	Ontario	4980	27.75	2012-10-29 23:59:59	http://dbpedia.org/page/Ontario
+520511386	United States Coast Guard	3289	43.54	2012-10-29 23:59:59	http://dbpedia.org/page/United_States_Coast_Guard
+520511386	Federal disaster area	16	75	2012-10-29 23:59:59	http://dbpedia.org/page/Federal_disaster_area
+520511386	FlightAware	240	57.92	2012-10-29 23:59:59	http://dbpedia.org/page/FlightAware
+520511386	Smith Point Light	99	86.87	2012-10-29 23:59:59	http://dbpedia.org/page/Smith_Point_Light
+520511386	Lake Michigan	2629	58.46	2012-10-29 23:59:59	http://dbpedia.org/page/Lake_Michigan
+520511386	Washington DC	739	43.03	2012-10-29 23:59:59	http://dbpedia.org/page/Washington_DC
+520511386	Newbury, Massachusetts	95	51.58	2012-10-29 23:59:59	http://dbpedia.org/page/Newbury,_Massachusetts
+520511386	Verrazano Bridge	55	56.36	2012-10-29 23:59:59	http://dbpedia.org/page/Verrazano_Bridge
+520511386	Chesapeake Bay Bridge	2046	69.65	2012-10-29 23:59:59	http://dbpedia.org/page/Chesapeake_Bay_Bridge
+520511386	Grand Central Terminal	2839	55.05	2012-10-29 23:59:59	http://dbpedia.org/page/Grand_Central_Terminal
+520511386	Chicago	12411	27.06	2012-10-29 23:59:59	http://dbpedia.org/page/Chicago
+520511386	Hofstra University	960	35.94	2012-10-29 23:59:59	http://dbpedia.org/page/Hofstra_University
+520511386	John Lynch (New Hampshire)	437	46.45	2012-10-29 23:59:59	http://dbpedia.org/page/John_Lynch_(New_Hampshire)
+520511386	Mutiny on the Bounty (1962 film)	3525	95.12	2012-10-29 23:59:59	http://dbpedia.org/page/Mutiny_on_the_Bounty_(1962_film)
+520511386	Babylon, New York	363	78.51	2012-10-29 23:59:59	http://dbpedia.org/page/Babylon,_New_York
+520511386	Texas	9180	22.96	2012-10-29 23:59:59	http://dbpedia.org/page/Texas
+520511386	Brookhaven, New York	268	64.93	2012-10-29 23:59:59	http://dbpedia.org/page/Brookhaven,_New_York
+520511386	Queens	4287	48.15	2012-10-29 23:59:59	http://dbpedia.org/page/Queens
+520511386	Red Cross	418	28.47	2012-10-29 23:59:59	http://dbpedia.org/page/Red_Cross
+520511386	Chatham, Massachusetts	558	84.05	2012-10-29 23:59:59	http://dbpedia.org/page/Chatham,_Massachusetts
+520511386	Chincoteague, Virginia	1598	87.3	2012-10-29 23:59:59	http://dbpedia.org/page/Chincoteague,_Virginia
+520511386	Throgs Neck Bridge	615	56.1	2012-10-29 23:59:59	http://dbpedia.org/page/Throgs_Neck_Bridge
+520511386	Adelphi University	322	45.65	2012-10-29 23:59:59	http://dbpedia.org/page/Adelphi_University
+520511386	Dewey	69	27.54	2012-10-29 23:59:59	http://dbpedia.org/page/Dewey
+520511386	Acela Express	733	32.61	2012-10-29 23:59:59	http://dbpedia.org/page/Acela_Express
+520511386	Central Park	3071	27.03	2012-10-29 23:59:59	http://dbpedia.org/page/Central_Park
+520511386	New York State Route 25A	121	52.89	2012-10-29 23:59:59	http://dbpedia.org/page/New_York_State_Route_25A
+520511386	Alternate-side parking	454	79.52	2012-10-29 23:59:59	http://dbpedia.org/page/Alternate-side_parking
+520511386	Cit� Soleil	189	34.39	2012-10-29 23:59:59	http://dbpedia.org/page/Cit%C3%A9_Soleil
+520511386	South Shore (Long Island)	435	48.05	2012-10-29 23:59:59	http://dbpedia.org/page/South_Shore_(Long_Island)
+520511386	WHIO-TV	91	28.57	2012-10-29 23:59:59	http://dbpedia.org/page/WHIO-TV
+520511386	I-95	93	46.24	2012-10-29 23:59:59	http://dbpedia.org/page/I-95
+520511386	NYU	349	50.72	2012-10-29 23:59:59	http://dbpedia.org/page/NYU
+520511386	Montgomery (town), New York	157	94.27	2012-10-29 23:59:59	http://dbpedia.org/page/Montgomery_(town),_New_York
+520511386	Whitestone Bridge	21	19.05	2012-10-29 23:59:59	http://dbpedia.org/page/Whitestone_Bridge
+520511386	Delaware Electric Cooperative	1	100	2012-10-29 23:59:59	http://dbpedia.org/page/Old_Dominion_Electric_Cooperative
+520511386	Mayor Bloomberg	294	78.91	2012-10-29 23:59:59	http://dbpedia.org/page/Mayor_Bloomberg
+520511386	Earl Ray Tomblin	546	81.14	2012-10-29 23:59:59	http://dbpedia.org/page/Earl_Ray_Tomblin
+520511386	Peter Shumlin	302	53.97	2012-10-29 23:59:59	http://dbpedia.org/page/Peter_Shumlin
+520511386	Cook County, Illinois	778	32.9	2012-10-29 23:59:59	http://dbpedia.org/page/Cook_County,_Illinois
+520511386	Executive order	1677	43.65	2012-10-29 23:59:59	http://dbpedia.org/page/Executive_order
+520511386	1938 New England hurricane	31920	52.21	2012-10-29 23:59:59	http://dbpedia.org/page/1938_New_England_hurricane
+520511386	New York Stock Exchange	6005	67.98	2012-10-29 23:59:59	http://dbpedia.org/page/New_York_Stock_Exchange
+520511386	Android (operating system)	26667	24.85	2012-10-29 23:59:59	http://dbpedia.org/page/Android_(operating_system)
+520511386	Manhattan	14832	52.56	2012-10-29 23:59:59	http://dbpedia.org/page/Manhattan
+520511386	East River Ferry	79	97.47	2012-10-29 23:59:59	http://dbpedia.org/page/East_River_Ferry
+520511386	Portsmouth Island	222	92.34	2012-10-29 23:59:59	http://dbpedia.org/page/Portsmouth_Island
+520511386	Harrisburg	109	66.97	2012-10-29 23:59:59	http://dbpedia.org/page/Harrisburg
+520511386	President Obama	224	39.29	2012-10-29 23:59:59	http://dbpedia.org/page/President_Obama
+520511386	Chase (bank)	689	36.14	2012-10-29 23:59:59	http://dbpedia.org/page/Chase_(bank)
+520511386	Hampton Bays High School	73	98.63	2012-10-29 23:59:59	http://dbpedia.org/page/Hampton_Bays_High_School
+520511386	Broadway theatre	1838	21.11	2012-10-29 23:59:59	http://dbpedia.org/page/Broadway_theatre
+520511386	Levittown, New York	712	37.22	2012-10-29 23:59:59	http://dbpedia.org/page/Levittown,_New_York
+520511386	East River Park	147	82.99	2012-10-29 23:59:59	http://dbpedia.org/page/East_River_Park
+520511386	Brentwood, New York	236	40.25	2012-10-29 23:59:59	http://dbpedia.org/page/Brentwood,_New_York
+520511386	WBOC-TV	214	60.75	2012-10-29 23:59:59	http://dbpedia.org/page/WBOC-TV
+520511386	SUNY Old Westbury	78	80.77	2012-10-29 23:59:59	http://dbpedia.org/page/SUNY_Old_Westbury
+520511386	District of Columbia	1010	37.43	2012-10-29 23:59:59	http://dbpedia.org/page/District_of_Columbia
+520511386	Bear, Delaware	245	62.45	2012-10-29 23:59:59	http://dbpedia.org/page/Bear,_Delaware
+520511386	Citibank	1356	28.32	2012-10-29 23:59:59	http://dbpedia.org/page/Citibank
+520511386	Millard E. Tydings Memorial Bridge	1346	95.25	2012-10-29 23:59:59	http://dbpedia.org/page/Millard_E._Tydings_Memorial_Bridge
+520511386	Michael Bloomberg	17302	46.83	2012-10-29 23:59:59	http://dbpedia.org/page/Michael_Bloomberg
+520511386	Oklahoma	3337	4.55	2012-10-29 23:59:59	http://dbpedia.org/page/Oklahoma
+520511386	North Carolina Highway 12	811	46.49	2012-10-29 23:59:59	http://dbpedia.org/page/North_Carolina_Highway_12
+520511386	Somerset County, Maryland	161	73.91	2012-10-29 23:59:59	http://dbpedia.org/page/Somerset_County,_Maryland
+520511386	Dover, Delaware	1001	47.05	2012-10-29 23:59:59	http://dbpedia.org/page/Dover,_Delaware
+520511386	Locust Valley	79	94.94	2012-10-29 23:59:59	http://dbpedia.org/page/Locust_Valley
+520511386	Massachusetts Bay Transportation Authority	618	47.25	2012-10-29 23:59:59	http://dbpedia.org/page/Massachusetts_Bay_Transportation_Authority
+520511386	Ed Mangano	428	66.82	2012-10-29 23:59:59	http://dbpedia.org/page/Ed_Mangano
+520511386	Dannel P. Malloy	164	82.93	2012-10-29 23:59:59	http://dbpedia.org/resource/Dan_Malloy
+520511386	Islip, New York	451	42.35	2012-10-29 23:59:59	http://dbpedia.org/page/Islip,_New_York
+520511386	Catholic churches in Vermont	82	96.34	2012-10-29 23:59:59	http://dbpedia.org/page/Catholic_churches_in_Vermont
+520511386	Los Angeles Times	892	15.36	2012-10-29 23:59:59	http://dbpedia.org/page/Los_Angeles_Times
+520511386	Staten Island Ferry	634	51.42	2012-10-29 23:59:59	http://dbpedia.org/page/Staten_Island_Ferry
+520511386	Cape Cod	2458	40.44	2012-10-29 23:59:59	http://dbpedia.org/page/Cape_Cod
+520511386	West Virginia	5683	47.3	2012-10-29 23:59:59	http://dbpedia.org/page/West_Virginia
+520511386	Keystone Service	89	41.57	2012-10-29 23:59:59	http://dbpedia.org/page/Keystone_Service
+520511386	Fenwick Island	10	90	2012-10-29 23:59:59	http://dbpedia.org/page/Fenwick_Island
+520511386	Sachem School District	113	50.44	2012-10-29 23:59:59	http://dbpedia.org/page/Sachem_School_District
+520511386	Ra�l Castro	1164	29.21	2012-10-29 23:59:59	http://dbpedia.org/page/Ra%C3%BAl_Castro
+520511386	Fall River, Massachusetts	542	46.31	2012-10-29 23:59:59	http://dbpedia.org/page/Fall_River,_Massachusetts
+520511386	Social media	5251	33.71	2012-10-29 23:59:59	http://dbpedia.org/page/Social_media
+520511386	Limited access highway	58	96.55	2012-10-29 23:59:59	http://dbpedia.org/page/Limited_access_highway
+520511386	Southeastern United States	1297	54.59	2012-10-29 23:59:59	http://dbpedia.org/page/Southeastern_United_States
+520511386	Kent County	15	20	2012-10-29 23:59:59	http://dbpedia.org/page/Kent_County
+520511386	LaGuardia Airport	1737	45.08	2012-10-29 23:59:59	http://dbpedia.org/page/LaGuardia_Airport
+520511386	Southampton, New York	570	73.33	2012-10-29 23:59:59	http://dbpedia.org/page/Southampton,_New_York
+520511386	Long Island Rail Road	745	30.87	2012-10-29 23:59:59	http://dbpedia.org/page/Long_Island_Rail_Road
+520670303	Maryland National Guard	35	68.57	2012-10-30 23:59:59	http://dbpedia.org/page/Maryland_National_Guard
+520670303	Post-tropical cyclone	6385	100	2012-10-30 23:59:59	http://dbpedia.org/page/Post-tropical_cyclone
+520670303	Canada	25915	11.02	2012-10-30 23:59:59	http://dbpedia.org/page/Canada
+520670303	Mount Washington, New Hampshire	64	60.94	2012-10-30 23:59:59	http://dbpedia.org/page/Mount_Washington,_New_Hampshire
+520670303	DTE Energy	362	60.22	2012-10-30 23:59:59	http://dbpedia.org/page/DTE_Energy
+520670303	Democrat and Chronicle	45	11.11	2012-10-30 23:59:59	http://dbpedia.org/page/Democrat_and_Chronicle
+520670303	Portal:2010s	91	21.98	2012-10-30 23:59:59	http://dbpedia.org/page/Portal:2010s
+520670303	Columbus, Ohio	2951	2.47	2012-10-30 23:59:59	http://dbpedia.org/page/Columbus,_Ohio
+520670303	Charlotte County, New Brunswick	88	68.18	2012-10-30 23:59:59	http://dbpedia.org/page/Charlotte_County,_New_Brunswick
+520670303	Providence, RI	58	25.86	2012-10-30 23:59:59	http://dbpedia.org/page/Providence,_RI
+520670303	Upper West Side	2341	47.46	2012-10-30 23:59:59	http://dbpedia.org/page/Upper_West_Side
+520670303	Michigan	6739	7.7	2012-10-30 23:59:59	http://dbpedia.org/page/Michigan
+520670303	Hudson Line (Metro-North)	473	67.23	2012-10-30 23:59:59	http://dbpedia.org/page/Hudson_Line_(Metro-North)
+520670303	Holland tunnel	4758	35.56	2012-10-30 23:59:59	http://dbpedia.org/page/Holland_Tunnel
+520670303	I-68	65	89.23	2012-10-30 23:59:59	http://dbpedia.org/page/I-68
+520670303	Fenwick Island, Delaware	224	10.71	2012-10-30 23:59:59	http://dbpedia.org/page/Fenwick_Island,_Delaware
+520670303	I-76	13	69.23	2012-10-30 23:59:59	http://dbpedia.org/page/I-76
+520670303	Green Bay (Lake Michigan)	88	36.36	2012-10-30 23:59:59	http://dbpedia.org/page/Green_Bay_(Lake_Michigan)
+520670303	MARC train	271	6.27	2012-10-30 23:59:59	http://dbpedia.org/page/MARC_train
+520670303	Shelburne County	27	92.59	2012-10-30 23:59:59	http://dbpedia.org/page/Shelburne_County
+520670303	Effects of Hurricane Sandy in New York	2232	100	2012-10-30 23:59:59	http://dbpedia.org/page/Effects_of_Hurricane_Sandy_in_New_York
+520670303	Interstate 95 in Pennsylvania	142	15.49	2012-10-30 23:59:59	http://dbpedia.org/page/Interstate_95_in_Pennsylvania
+520670303	Six alarm fire	1160	100	2012-10-30 23:59:59	http://dbpedia.org/page/Six_alarm_fire
+520670303	Bergen County, New Jersey	3951	73.68	2012-10-30 23:59:59	http://dbpedia.org/page/Bergen_County,_New_Jersey
+520670303	National Park Service	1044	18.39	2012-10-30 23:59:59	http://dbpedia.org/page/National_Park_Service
+520670303	St. Lawrence River	226	17.7	2012-10-30 23:59:59	http://dbpedia.org/page/St._Lawrence_River
+520670303	Atlantic	195	7.69	2012-10-30 23:59:59	http://dbpedia.org/page/Atlantic
+520670303	Ottawa Macdonald-Cartier International Airport	191	2.62	2012-10-30 23:59:59	http://dbpedia.org/page/Ottawa_Macdonald-Cartier_International_Airport
+520670303	Connecticut National Guard	29	68.97	2012-10-30 23:59:59	http://dbpedia.org/page/Connecticut_National_Guard
+520670303	Langone Medical Center	191	45.55	2012-10-30 23:59:59	http://dbpedia.org/page/Langone_Medical_Center
+520670303	Tropical cyclone naming	7974	44.18	2012-10-30 23:59:59	http://dbpedia.org/page/Tropical_cyclone_naming
+520670303	Pittsburgh	5549	8.4	2012-10-30 23:59:59	http://dbpedia.org/page/Pittsburgh
+520670303	Breezy Point, Queens	41276	98.39	2012-10-30 23:59:59	http://dbpedia.org/page/Breezy_Point,_Queens
+520670303	Dewey Beach, Delaware	256	45.7	2012-10-30 23:59:59	http://dbpedia.org/page/Dewey_Beach,_Delaware
+520670303	Carlstadt, New Jersey	1103	86.4	2012-10-30 23:59:59	http://dbpedia.org/page/Carlstadt,_New_Jersey
+520670303	Sept-�les, Quebec	203	29.06	2012-10-30 23:59:59	http://dbpedia.org/page/Category:Sept-%C3%8Eles,_Quebec
+520670303	Ossining, New York	43	74.42	2012-10-30 23:59:59	http://dbpedia.org/page/Ossining,_New_York
+520670303	Lower Manhattan	7457	61.43	2012-10-30 23:59:59	http://dbpedia.org/page/Lower_Manhattan
+520670303	Nasdaq	3708	6.2	2012-10-30 23:59:59	http://dbpedia.org/page/Nasdaq
+520670303	Yarmouth County	36	100	2012-10-30 23:59:59	http://dbpedia.org/page/Yarmouth_County
+520670303	Montreal-Pierre Elliott Trudeau International Airport	62	90.32	2012-10-30 23:59:59	http://dbpedia.org/page/Montr%C3%A9al%E2%80%93Pierre_Elliott_Trudeau_International_Airport
+520670303	Toronto	9148	5.3	2012-10-30 23:59:59	http://dbpedia.org/page/Toronto
+520670303	New Hampshire National Guard	56	75	2012-10-30 23:59:59	http://dbpedia.org/page/New_Hampshire_National_Guard
+520670303	Upstate New York	1280	4.3	2012-10-30 23:59:59	http://dbpedia.org/page/Upstate_New_York
+520670303	Eastern Townships	96	25	2012-10-30 23:59:59	http://dbpedia.org/page/Eastern_Townships
+520670303	Harrisburg, Pennsylvania	1739	8.05	2012-10-30 23:59:59	http://dbpedia.org/page/Harrisburg,_Pennsylvania
+520670303	New York National Guard	120	66.67	2012-10-30 23:59:59	http://dbpedia.org/page/New_York_National_Guard
+520670303	Interstate 476	147	23.81	2012-10-30 23:59:59	http://dbpedia.org/page/Interstate_476
+520670303	Northern Virginia	672	1.64	2012-10-30 23:59:59	http://dbpedia.org/page/Northern_Virginia
+520670303	Cleveland	3962	27.59	2012-10-30 23:59:59	http://dbpedia.org/page/Cleveland
+520670303	Laurentides	103	49.51	2012-10-30 23:59:59	http://dbpedia.org/page/Laurentides
+520670303	Montreal	6418	1.82	2012-10-30 23:59:59	http://dbpedia.org/page/Montreal
+520670303	New York City Transit Authority	1271	73.8	2012-10-30 23:59:59	http://dbpedia.org/page/New_York_City_Transit_Authority
+520670303	Ben Franklin Bridge	36	5.56	2012-10-30 23:59:59	http://dbpedia.org/page/Ben_Franklin_Bridge
+520670303	Consumers Energy	85	4.71	2012-10-30 23:59:59	http://dbpedia.org/page/Consumers_Energy
+520670303	Indian Point Energy Center	2248	40.61	2012-10-30 23:59:59	http://dbpedia.org/page/Indian_Point_Energy_Center
+520670303	Ground Zero	3920	75.46	2012-10-30 23:59:59	http://dbpedia.org/page/Ground_Zero
+520670303	Hull, Massachusetts	421	48.46	2012-10-30 23:59:59	http://dbpedia.org/page/Hull,_Massachusetts
+520670303	FDR Drive	162	45.06	2012-10-30 23:59:59	http://dbpedia.org/page/FDR_Drive
+520670303	Cleveland Burke Lakefront Airport	101	69.31	2012-10-30 23:59:59	http://dbpedia.org/page/Cleveland_Burke_Lakefront_Airport
+520670303	CMS Energy	74	41.89	2012-10-30 23:59:59	http://dbpedia.org/page/CMS_Energy
+520670303	Davis, West Virginia	1683	92.81	2012-10-30 23:59:59	http://dbpedia.org/page/Davis,_West_Virginia
+520670303	1821 Norfolk and Long Island hurricane	4294	69.38	2012-10-30 23:59:59	http://dbpedia.org/page/1821_Norfolk_and_Long_Island_hurricane
+520670303	The Junction	1157	90.92	2012-10-30 23:59:59	http://dbpedia.org/page/The_Junction
+520670303	Quebec City	1731	7.28	2012-10-30 23:59:59	http://dbpedia.org/page/Quebec_City
+520670303	Delaware River Port Authority	83	3.61	2012-10-30 23:59:59	http://dbpedia.org/page/Delaware_River_Port_Authority
+520670303	U.S. National Guard	80	90	2012-10-30 23:59:59	http://dbpedia.org/page/U.S._National_Guard
+520670303	Space Shuttle Enterprise	1692	61.7	2012-10-30 23:59:59	http://dbpedia.org/page/Space_Shuttle_Enterprise
+520670303	Broward County, Florida	433	0.92	2012-10-30 23:59:59	http://dbpedia.org/page/Broward_County,_Florida
+520670303	New York University	2432	20.56	2012-10-30 23:59:59	http://dbpedia.org/page/New_York_University
+520670303	Quebec	5550	6.27	2012-10-30 23:59:59	http://dbpedia.org/page/Quebec
+520670303	Great Lakes	11690	7.8	2012-10-30 23:59:59	http://dbpedia.org/page/Great_Lakes
+520670303	Atlantic Canada	910	10.11	2012-10-30 23:59:59	http://dbpedia.org/page/Atlantic_Canada
+520670303	Gasp� Peninsula	219	13.24	2012-10-30 23:59:59	http://dbpedia.org/page/Gasp%C3%A9_Peninsula
+520670303	Rock and Roll Hall of Fame	1959	9.19	2012-10-30 23:59:59	http://dbpedia.org/page/Rock_and_Roll_Hall_of_Fame
+520670303	Queens County, Nova Scotia	53	84.91	2012-10-30 23:59:59	http://dbpedia.org/page/Queens_County,_Nova_Scotia
+520670303	Vine Street Expressway	17	70.59	2012-10-30 23:59:59	http://dbpedia.org/page/Vine_Street_Expressway
+520670303	Ohio	8636	5.6	2012-10-30 23:59:59	http://dbpedia.org/page/Ohio
+520670303	Gulf of St. Lawrence	62	11.29	2012-10-30 23:59:59	http://dbpedia.org/page/Gulf_of_St._Lawrence
+520670303	Milwaukee	2520	11.94	2012-10-30 23:59:59	http://dbpedia.org/page/Milwaukee
+520670303	Commodore Barry Bridge	205	0.49	2012-10-30 23:59:59	http://dbpedia.org/page/Commodore_Barry_Bridge
+520670303	Berm	3495	86.18	2012-10-30 23:59:59	http://dbpedia.org/page/Berm
+520670303	Marblehead, Massachusetts	579	49.05	2012-10-30 23:59:59	http://dbpedia.org/page/Marblehead,_Massachusetts
+520670303	Blue Route	24	91.67	2012-10-30 23:59:59	http://dbpedia.org/page/Blue_Route
+520670303	Charlevoix	105	54.29	2012-10-30 23:59:59	http://dbpedia.org/page/Charlevoix
+520670303	Tropical storm	2339	0.17	2012-10-30 23:59:59	http://dbpedia.org/page/Tropical_storm
+520670303	Intensive care units	8	75	2012-10-30 23:59:59	http://dbpedia.org/page/Intensive_care_units
+520670303	Logan Township, New Jersey	419	76.85	2012-10-30 23:59:59	http://dbpedia.org/page/Logan_Township,_New_Jersey
+520670303	Richard Moccia	25	92	2012-10-30 23:59:59	http://dbpedia.org/page/Richard_Moccia
+520670303	Virginia Railway Express	122	18.03	2012-10-30 23:59:59	http://dbpedia.org/page/Virginia_Railway_Express
+520670303	Coastal flood watch	50	14	2012-10-30 23:59:59	http://dbpedia.org/page/Coastal_flood_watch
+520670303	Toronto Pearson International Airport	1222	2.62	2012-10-30 23:59:59	http://dbpedia.org/page/Toronto_Pearson_International_Airport
+520670303	Kentucky	4654	9.88	2012-10-30 23:59:59	http://dbpedia.org/page/Kentucky
+520670303	Billy Bishop Toronto City Airport	377	21.49	2012-10-30 23:59:59	http://dbpedia.org/page/Billy_Bishop_Toronto_City_Airport
+520670303	Atlantic City	3325	44.48	2012-10-30 23:59:59	http://dbpedia.org/page/Atlantic_City
+520670303	Entergy	198	53.54	2012-10-30 23:59:59	http://dbpedia.org/page/Entergy
+520670303	U.S. Route 1 in Pennsylvania	112	40.18	2012-10-30 23:59:59	http://dbpedia.org/page/U.S._Route_1_in_Pennsylvania
+520826077	Sandys Parish	94	82.98	2012-10-31 23:59:59	http://dbpedia.org/page/Sandys_Parish
+520826077	Fujiwhara effect	1991	54.9	2012-10-31 23:59:59	http://dbpedia.org/page/Fujiwhara_effect
+520826077	Cuban peso	375	33.33	2012-10-31 23:59:59	http://dbpedia.org/page/Cuban_peso
+520826077	Casino Pier	3078	57.83	2012-10-31 23:59:59	http://dbpedia.org/page/Casino_Pier
+520826077	2011 Halloween nor'easter	5511	29.54	2012-10-31 23:59:59	http://dbpedia.org/page/2011_Halloween_nor'easter
+520826077	Hurricane Olga (2001)	1993	77.27	2012-10-31 23:59:59	http://dbpedia.org/page/Hurricane_Olga_(2001)
+520826077	Bluewater Bridge	119	96.64	2012-10-31 23:59:59	http://dbpedia.org/page/Bluewater_Bridge
+520826077	Seaside Heights, New Jersey	10049	49.13	2012-10-31 23:59:59	http://dbpedia.org/page/Seaside_Heights,_New_Jersey
+520826077	Effects of Hurricane Sandy in the United States	2833	100	2012-10-31 23:59:59	http://dbpedia.org/page/Effects_of_Hurricane_Sandy_in_the_United_States
+520826077	Template talk:Hurricane Sandy series	86	100	2012-10-31 23:59:59	http://dbpedia.org/page/Template_talk:Hurricane_Sandy_series
+520826077	Northeastern States	21	100	2012-10-31 23:59:59	http://dbpedia.org/page/Northeastern_States
+520826077	L.F. Wade International Airport	144	32.64	2012-10-31 23:59:59	http://dbpedia.org/page/L.F._Wade_International_Airport
+520826077	Jersey Shore	5574	26.25	2012-10-31 23:59:59	http://dbpedia.org/page/Jersey_Shore
+520826077	Saguenay, Quebec	607	57.17	2012-10-31 23:59:59	http://dbpedia.org/page/Saguenay,_Quebec
+520826077	Battery Park, New York	288	98.96	2012-10-31 23:59:59	http://dbpedia.org/page/Battery_Park,_New_York
+520826077	Effects of Hurricane Sandy in the Greater Antilles	1147	100	2012-10-31 23:59:59	http://dbpedia.org/page/Effects_of_Hurricane_Sandy_in_the_Greater_Antilles
+520826077	Umiujaq	47	97.87	2012-10-31 23:59:59	http://dbpedia.org/page/Umiujaq
+520826077	Northern Quebec	18	77.78	2012-10-31 23:59:59	http://dbpedia.org/page/Northern_Quebec
+520826077	Category:Wikipedia articles needing style editing from October 2012	28	64.29	2012-10-31 23:59:59	http://dbpedia.org/page/Category:Wikipedia_articles_needing_style_editing
+520826077	Category:Hurricane Sandy	356	80.62	2012-10-31 23:59:59	http://dbpedia.org/page/Category:Hurricane_Sandy
+520826077	Wikipedia:Wikimedia sister projects	379	13.19	2012-10-31 23:59:59	http://dbpedia.org/page/Template_messages/Sister_projects
+520826077	Effects of Hurricane Sandy in Canada	1	100	2012-10-31 23:59:59	http://dbpedia.org/page/Effects_of_Hurricane_Sandy_in_Canada
+520983000	Howard County, Maryland	198	100.51	2012-11-01 23:59:59	http://dbpedia.org/page/Howard_County,_Maryland
+520983000	Great September Gale of 1815	666	100.15	2012-11-01 23:59:59	http://dbpedia.org/page/Great_September_Gale_of_1815
+520983000	Interstate 76 (east)	146	100.68	2012-11-01 23:59:59	http://dbpedia.org/page/Interstate_76_(east)
+520983000	Wikipedia:Protection policy	5629	100.02	2012-11-01 23:59:59	http://dbpedia.org/page/Wikipedia:Protection_policy
+520983000	Coney Island	3929	100.03	2012-11-01 23:59:59	http://dbpedia.org/page/Coney_Island
+520983000	Thomas J. Hatem Memorial Bridge	45	102.22	2012-11-01 23:59:59	http://dbpedia.org/page/Thomas_J._Hatem_Memorial_Bridge
+520983000	Great Colonial Hurricane of 1635	2279	100.04	2012-11-01 23:59:59	http://dbpedia.org/page/Great_Colonial_Hurricane_of_1635
+520983000	National Football League	5605	100.02	2012-11-01 23:59:59	http://dbpedia.org/page/National_Football_League
+520983000	Brooklyn	7118	100.01	2012-11-01 23:59:59	http://dbpedia.org/page/Brooklyn
+520983000	Cold-core low	171	100.58	2012-11-01 23:59:59	http://dbpedia.org/page/Cold-core_low
+520983000	Digital object identifier	1738	100.06	2012-11-01 23:59:59	http://dbpedia.org/page/Digital_object_identifier
+520983000	East Village, Manhattan	901	100.11	2012-11-01 23:59:59	http://dbpedia.org/page/East_Village,_Manhattan
+520983000	White House	22512	100	2012-11-01 23:59:59	http://dbpedia.org/page/White_House
+520983000	Massachusetts Institute of Technology	4310	100.02	2012-11-01 23:59:59	http://dbpedia.org/page/Massachusetts_Institute_of_Technology
+520983000	Arctic front	54	101.85	2012-11-01 23:59:59	http://dbpedia.org/page/Arctic_front
+520983000	Staten Island	10326	100.01	2012-11-01 23:59:59	http://dbpedia.org/page/Staten_Island
+520983000	Panther	1448	100.07	2012-11-01 23:59:59	http://dbpedia.org/page/Panther
+520983000	Consolidated Edison	3940	100.03	2012-11-01 23:59:59	http://dbpedia.org/page/Consolidated_Edison
+521131688	New York City Marathon	10576	69.93	2012-11-02 23:59:59	http://dbpedia.org/page/New_York_City_Marathon
+521131688	North Atlantic Oscillation	587	20.95	2012-11-02 23:59:59	http://dbpedia.org/page/North_Atlantic_Oscillation
+521131688	Square nautical miles	30	96.67	2012-11-02 23:59:59	http://dbpedia.org/page/Square_nautical_miles
+521131688	Scientific American	431	6.5	2012-11-02 23:59:59	http://dbpedia.org/page/Scientific_American
+521131688	Appalachian Trail	1508	8.49	2012-11-02 23:59:59	http://dbpedia.org/page/Appalachian_Trail
+521131688	Pennsylvania Emergency Management Agency	10	30	2012-11-02 23:59:59	http://dbpedia.org/page/Pennsylvania_Emergency_Management_Agency
+521131688	American Red Cross	3096	18.9	2012-11-02 23:59:59	http://dbpedia.org/page/American_Red_Cross
+521279859	National Center for Atmospheric Research	83	27.71	2012-11-03 23:59:59	http://dbpedia.org/page/National_Center_for_Atmospheric_Research
+521279859	Category:NPOV disputes from November 2012	17	70.59	2012-11-03 23:59:59	http://dbpedia.org/page/Category:NPOV_disputes_from_November_2012
+521279859	Category:Articles with unsourced statements from November 2012	36	27.78	2012-11-03 23:59:59	http://dbpedia.org/page/Category:Articles_with_unsourced_statements_from_November_2012
+521279859	Crisfield, Maryland	85	15.29	2012-11-03 23:59:59	http://dbpedia.org/page/Crisfield,_Maryland
+521279859	City Island, Bronx	628	14.81	2012-11-03 23:59:59	http://dbpedia.org/page/City_Island,_Bronx
+521279859	Talk:Hurricane Sandy	2929	67.05	2012-11-03 23:59:59	http://dbpedia.org/page/Talk:Hurricane_Sandy
+521279859	Karl Rove	3301	10.78	2012-11-03 23:59:59	http://dbpedia.org/page/Karl_Rove
+521279859	Wikipedia:NPOVD	314	29.3	2012-11-03 23:59:59	http://dbpedia.org/page/Wikipedia:NPOVD
+521279859	Wikipedia:NPOV dispute	363	19.83	2012-11-03 23:59:59	http://dbpedia.org/page/Wikipedia:NPOV_dispute
+521279859	Hurricane evacuation	101	33.66	2012-11-03 23:59:59	http://dbpedia.org/page/Hurricane_evacuation
+521279859	Effects of Hurricane Irene in New York	267	63.3	2012-11-03 23:59:59	http://dbpedia.org/page/Effects_of_Hurricane_Irene_in_New_York
+521279859	Kevin E. Trenberth	53	30.19	2012-11-03 23:59:59	http://dbpedia.org/page/Kevin_E._Trenberth
+521447236	Governor of West Virginia	38	7.89	2012-11-04 23:59:59	http://dbpedia.org/page/Governor_of_West_Virginia
+521447236	Lame duck session	630	36.51	2012-11-04 23:59:59	http://dbpedia.org/page/Lame_duck_session
+521447236	House Energy and Commerce Committee	13	38.46	2012-11-04 23:59:59	http://dbpedia.org/page/House_Energy_and_Commerce_Committee
+521447236	Quinwood, West Virginia	13	53.85	2012-11-04 23:59:59	http://dbpedia.org/page/Quinwood,_West_Virginia
+521447236	New Castle County, Delaware	132	22.73	2012-11-04 23:59:59	http://dbpedia.org/page/New_Castle_County,_Delaware
+521447236	Puerto Rico	10909	14.42	2012-11-04 23:59:59	http://dbpedia.org/page/Puerto_Rico
+521447236	George W. Bush	19227	23	2012-11-04 23:59:59	http://dbpedia.org/page/George_W._Bush
+521447236	Effects of Hurricane Andrew in the Bahamas	42	16.67	2012-11-04 23:59:59	http://dbpedia.org/page/Effects_of_Hurricane_Andrew_in_the_Bahamas
+521447236	Eastern Shore of Maryland	172	14.53	2012-11-04 23:59:59	http://dbpedia.org/page/Eastern_Shore_of_Maryland
+521447236	Itemized deduction	626	52.88	2012-11-04 23:59:59	http://dbpedia.org/page/Itemized_deduction
+521447236	Buzzfeed.com	3	100	2012-11-04 23:59:59	http://dbpedia.org/page/BuzzFeed
+521447236	Clayton, West Virginia	14	7.14	2012-11-04 23:59:59	http://dbpedia.org/page/Clayton,_West_Virginia
+521447236	United States elections, 2012	4713	30.3	2012-11-04 23:59:59	http://dbpedia.org/page/United_States_elections,_2012
+521591031	Blizzard	1390	26.12	2012-11-05 23:59:59	http://dbpedia.org/page/Blizzard
+521591031	Template talk:United States Blizzards	3	66.67	2012-11-05 23:59:59	http://dbpedia.org/page/Template_talk:United_States_Blizzards
+521591031	1920 North Dakota blizzard	25	84	2012-11-05 23:59:59	http://dbpedia.org/page/1920_North_Dakota_blizzard
+521591031	January 31 � February 2, 2011 North American blizzard	171	40.35	2012-11-05 23:59:59	http://dbpedia.org/page/January_31_%E2%80%93_February_2,_2011_North_American_blizzard
+521591031	Climate change	5523	29.13	2012-11-05 23:59:59	http://dbpedia.org/page/Climate_change
+521591031	North American blizzard of 1996	450	46.67	2012-11-05 23:59:59	http://dbpedia.org/page/North_American_blizzard_of_1996
+521591031	December 2003 New England snowstorm	6	50	2012-11-05 23:59:59	http://dbpedia.org/page/December_2003_nor'easter
+521591031	Michael Mann	99	28.28	2012-11-05 23:59:59	http://dbpedia.org/page/Michael_Mann
+521591031	Great Appalachian Storm of November 1950	100	10	2012-11-05 23:59:59	http://dbpedia.org/page/Great_Appalachian_Storm_of_November_1950
+521591031	Brigantine, New Jersey	262	37.4	2012-11-05 23:59:59	http://dbpedia.org/page/Brigantine,_New_Jersey
+521591031	Current sea level rise	1848	13.8	2012-11-05 23:59:59	http://dbpedia.org/page/Current_sea_level_rise
+521591031	Long Beach Island	1681	31.65	2012-11-05 23:59:59	http://dbpedia.org/page/Long_Beach_Island
+521591031	2009 North American Christmas blizzard	99	72.73	2012-11-05 23:59:59	http://dbpedia.org/page/2009_North_American_Christmas_blizzard
+521591031	Knickerbocker Storm	33	39.39	2012-11-05 23:59:59	http://dbpedia.org/page/Knickerbocker_Storm
+521591031	North American blizzard of 2006	675	53.04	2012-11-05 23:59:59	http://dbpedia.org/page/North_American_blizzard_of_2006
+521591031	North American blizzard of 2005	146	46.58	2012-11-05 23:59:59	http://dbpedia.org/page/North_American_blizzard_of_2005
+521591031	Blizzard of 1977	144	6.94	2012-11-05 23:59:59	http://dbpedia.org/page/Blizzard_of_1977
+521591031	Great Blizzard of 1899	139	15.11	2012-11-05 23:59:59	http://dbpedia.org/page/Great_Blizzard_of_1899
+521591031	Intergovernmental Panel on Climate Change	821	18.03	2012-11-05 23:59:59	http://dbpedia.org/page/Intergovernmental_Panel_on_Climate_Change
+521591031	North American blizzards of 2010	36	33.33	2012-11-05 23:59:59	http://dbpedia.org/page/North_American_blizzards_of_2010
+521591031	Great Blizzard of 1888	1328	36.9	2012-11-05 23:59:59	http://dbpedia.org/page/Great_Blizzard_of_1888
+521591031	North American blizzard of 2003	154	27.27	2012-11-05 23:59:59	http://dbpedia.org/page/North_American_blizzard_of_2003
+521591031	1991 Halloween blizzard	198	25.76	2012-11-05 23:59:59	http://dbpedia.org/page/1991_Halloween_blizzard
+521591031	North American blizzard of 2009	193	55.44	2012-11-05 23:59:59	http://dbpedia.org/page/North_American_blizzard_of_2009
+521591031	Chicago Blizzard of 1967	39	17.95	2012-11-05 23:59:59	http://dbpedia.org/page/Chicago_Blizzard_of_1967
+521591031	Schoolhouse Blizzard	148	27.03	2012-11-05 23:59:59	http://dbpedia.org/page/Schoolhouse_Blizzard
+521591031	North American blizzard of 1947	47	21.28	2012-11-05 23:59:59	http://dbpedia.org/page/North_American_blizzard_of_1947
+521591031	February 25�27, 2010 North American blizzard	81	32.1	2012-11-05 23:59:59	http://dbpedia.org/page/February_25%E2%80%9327,_2010_North_American_blizzard
+521591031	Chicago Blizzard of 1979	69	37.68	2012-11-05 23:59:59	http://dbpedia.org/page/Chicago_Blizzard_of_1979
+521591031	February 5�6, 2010 North American blizzard	179	31.84	2012-11-05 23:59:59	http://dbpedia.org/page/February_5%E2%80%936,_2010_North_American_blizzard
+521591031	Inflation	7820	20.95	2012-11-05 23:59:59	http://dbpedia.org/page/Inflation
+521591031	February 1969 nor'easter	37	40.54	2012-11-05 23:59:59	http://dbpedia.org/page/February_1969_nor'easter
+521811511	International Standard Serial Number	885	12.77	2012-11-06 23:59:59	http://dbpedia.org/page/International_Standard_Serial_Number
+521811511	Signals intelligence operational platforms by nation	129	41.86	2012-11-06 23:59:59	http://dbpedia.org/page/Signals_intelligence_operational_platforms_by_nation
+521811511	Red Hook, New York	281	12.1	2012-11-06 23:59:59	http://dbpedia.org/page/Red_Hook,_New_York
+521811511	New York Governor	59	38.98	2012-11-06 23:59:59	http://dbpedia.org/page/New_York_Governor
+521811511	Brighton Beach, New York	5	80	2012-11-06 23:59:59	http://dbpedia.org/page/Brighton_Beach,_New_York
+521811511	Kings Bay Naval Submarine Base	44	81.82	2012-11-06 23:59:59	http://dbpedia.org/page/Kings_Bay_Naval_Submarine_Base
+521811511	New Jersey Governor	32	46.88	2012-11-06 23:59:59	http://dbpedia.org/page/New_Jersey_Governor
+521811511	U.S. state	16423	29.73	2012-11-06 23:59:59	http://dbpedia.org/page/U.S._state
+521811511	Hurricane Michelle	117	28.21	2012-11-06 23:59:59	http://dbpedia.org/page/Hurricane_Michelle
+521811511	Michael E. Mann	228	0.88	2012-11-06 23:59:59	http://dbpedia.org/page/Michael_E._Mann
+521811511	New York governor	59	38.98	2012-11-06 23:59:59	http://dbpedia.org/page/New_York_governor
+521811511	Georgian Bay	190	23.16	2012-11-06 23:59:59	http://dbpedia.org/page/Georgian_Bay
+521917023	Daniel P. Schrag	14	21.43	2012-11-07 23:59:59	http://dbpedia.org/page/Daniel_P._Schrag
+522092454	Causality	2160	11.67	2012-11-08 23:59:59	http://dbpedia.org/page/Causality
+522092454	World Food Programme	376	23.67	2012-11-08 23:59:59	http://dbpedia.org/page/World_Food_Programme
+522257138	Odd-even rationing	216	14.35	2012-11-09 23:59:59	http://dbpedia.org/page/Odd-even_rationing
+522557194	Category:Articles with dead external links from November 2012	38	7.89	2012-11-11 23:59:59	http://dbpedia.org/page/Category:Articles_with_dead_external_links_from_November_2012
+522557194	Democratic Party	293	2.73	2012-11-11 23:59:59	http://dbpedia.org/page/Democratic_Party
+523769771	Appalachian Mountains	2156	27.88	2012-11-18 23:59:59	http://dbpedia.org/page/Appalachian_Mountains
+524138649	Null hypothesis	3444	35.16	2012-11-19 23:59:59	http://dbpedia.org/page/Null_hypothesis
+524749344	Throggs Neck	106	4.72	2012-11-24 23:59:59	http://dbpedia.org/page/Throggs_Neck
+526923033	Hurricane Wilma	1001	24.68	2012-12-06 23:59:59	http://dbpedia.org/page/Hurricane_Wilma
+527025052	Alicia Keys	16198	6.01	2012-12-07 23:59:59	http://dbpedia.org/page/Alicia_Keys
+527025052	YouTube	91160	17.44	2012-12-07 23:59:59	http://dbpedia.org/page/YouTube
+527025052	Fuse (TV channel)	185	1.08	2012-12-07 23:59:59	http://dbpedia.org/page/Fuse_(TV_channel)
+527025052	Bruce Springsteen and the E Street Band	55	20	2012-12-07 23:59:59	http://dbpedia.org/page/Bruce_Springsteen_and_the_E_Street_Band
+527025052	The Rolling Stones	12297	1.06	2012-12-07 23:59:59	http://dbpedia.org/page/The_Rolling_Stones
+527025052	12.12.12 - The Concert for Sandy Relief	35	100	2012-12-07 23:59:59	http://dbpedia.org/page/12.12.12_-_The_Concert_for_Sandy_Relief
+527025052	Dave Grohl	11445	54.71	2012-12-07 23:59:59	http://dbpedia.org/page/Dave_Grohl
+527306121	Jet stream	1200	24.5	2012-12-09 23:59:59	http://dbpedia.org/page/Jet_stream
+527306121	Prevailing winds	242	28.1	2012-12-09 23:59:59	http://dbpedia.org/page/Prevailing_winds
+527306121	Weather	1357	18.13	2012-12-09 23:59:59	http://dbpedia.org/page/Weather
+527306121	Meander	718	29.39	2012-12-09 23:59:59	http://dbpedia.org/page/Meander
+527806100	National Weather Service Miami, Florida	9	66.67	2012-12-12 23:59:59	http://dbpedia.org/page/National_Weather_Service_Miami,_Florida
+527806100	List of mayors of Harrisburg	22	50	2012-12-12 23:59:59	http://dbpedia.org/page/List_of_mayors_of_Harrisburg
+527806100	Key Biscayne	97	28.87	2012-12-12 23:59:59	http://dbpedia.org/page/Key_Biscayne
+527806100	Governor of New Jersey	215	9.77	2012-12-12 23:59:59	http://dbpedia.org/page/Governor_of_New_Jersey
+527806100	List of counties in New York	998	4.11	2012-12-12 23:59:59	http://dbpedia.org/page/List_of_counties_in_New_York
+527806100	Mayor of Hoboken, New Jersey	12	8.33	2012-12-12 23:59:59	http://dbpedia.org/page/Mayor_of_Hoboken,_New_Jersey
+527806100	Governor of Virginia	229	9.61	2012-12-12 23:59:59	http://dbpedia.org/page/Governor_of_Virginia
+527806100	Governor of New York	308	5.19	2012-12-12 23:59:59	http://dbpedia.org/page/Governor_of_New_York
+527806100	Jupiter, Florida	627	33.65	2012-12-12 23:59:59	http://dbpedia.org/page/Jupiter,_Florida
+527806100	Governor of Pennsylvania	65	27.69	2012-12-12 23:59:59	http://dbpedia.org/page/Governor_of_Pennsylvania
+527806100	Lake Worth, Florida	216	36.11	2012-12-12 23:59:59	http://dbpedia.org/page/Lake_Worth,_Florida
+527806100	Martin O'Malley	635	20.94	2012-12-12 23:59:59	http://dbpedia.org/page/Martin_O'Malley
+527806100	Tom Corbett	835	63.59	2012-12-12 23:59:59	http://dbpedia.org/page/Tom_Corbett
+527806100	Governor of Maryland	152	23.03	2012-12-12 23:59:59	http://dbpedia.org/page/Governor_of_Maryland
+527806100	Brooklyn�Battery Tunnel	144	9.72	2012-12-12 23:59:59	http://dbpedia.org/page/Brooklyn%E2%80%93Battery_Tunnel
+527806100	Mayor of Philadelphia	31	29.03	2012-12-12 23:59:59	http://dbpedia.org/page/Mayor_of_Philadelphia
+528026334	List of counties in North Carolina	455	19.78	2012-12-13 23:59:59	http://dbpedia.org/page/List_of_counties_in_North_Carolina
+528026334	Governor of North Carolina	171	7.02	2012-12-13 23:59:59	http://dbpedia.org/page/Governor_of_North_Carolina
+530218063	Popular Science	346	6.07	2012-12-24 23:59:59	http://dbpedia.org/page/Popular_Science
+531212470	113th United States Congress	22125	30.94	2013-01-03 23:59:59	http://dbpedia.org/page/113th_United_States_Congress
+531212470	Flood insurance	359	66.3	2013-01-03 23:59:59	http://dbpedia.org/page/Flood_insurance
+531907256	WBZ-TV	235	17.45	2013-01-07 23:59:59	http://dbpedia.org/page/WBZ-TV
+532311767	Category:Articles with unsourced statements from January 2013	95	38.95	2013-01-09 23:59:59	http://dbpedia.org/page/Category:Articles_with_unsourced_statements_from_January_2013
+533304416	Hudson County, New Jersey	339	21.83	2013-01-15 23:59:59	http://dbpedia.org/page/Hudson_County,_New_Jersey
+533760898	Stafford Township, New Jersey	26	11.54	2013-01-16 23:59:59	http://dbpedia.org/page/Stafford_Township,_New_Jersey
+534352670	Kutztown, Pennsylvania	74	9.46	2013-01-20 23:59:59	http://dbpedia.org/page/Kutztown,_Pennsylvania
+537719526	North Atlantic hurricane naming list	2	100	2013-02-09 23:59:59	http://dbpedia.org/page/North_Atlantic_hurricane_naming_list
+539008923	Cat Island	54	29.63	2013-02-18 23:59:59	http://dbpedia.org/page/Cat_Island
+541680287	Interstate 95	636	9.75	2013-02-24 23:59:59	http://dbpedia.org/page/Interstate_95

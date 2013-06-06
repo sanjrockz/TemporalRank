@@ -1,0 +1,13 @@
+50b7a9d400315214fbb7d26c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513e0446cf28d04ae0001957	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5084300315214fbb7ca1c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507eb00315214fbb7c510	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507c500315214fbb7c349	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5084300315214fbb7ca5c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507d900315214fbb7c4b7	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b524db00315214fbb7cb3e	http://dbpedia.org/page/Queens
+50b524db00315214fbb7cb3e	http://dbpedia.org/page/Manhattan
+50b524db00315214fbb7cb3e	http://dbpedia.org/page/Brooklyn
+50b5084300315214fbb7ca1e	http://dbpedia.org/page/Manhattan
+50b5080100315214fbb7c67b	http://dbpedia.org/page/Brooklyn
+50b5084300315214fbb7ca76	http://dbpedia.org/page/President_Obama

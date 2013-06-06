@@ -1,0 +1,8 @@
+50f58aac00315214fbb850df	http://dbpedia.org/page/Tropical_storm
+50f58aac00315214fbb850df	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d0e55c00315214fbb7fc7c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c9377900315214fbb7f379	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c9ad5300315214fbb7f483	http://dbpedia.org/page/Ohio
+50c9398100315214fbb7f37e	http://dbpedia.org/page/Red_Cross
+50c87ac700315214fbb7f0fe	http://dbpedia.org/page/Climate_change
+50c9d9ae00315214fbb7f513	http://dbpedia.org/page/Hurricane_Sandy_(2012)

@@ -1,0 +1,8 @@
+510fdd2000315214fbb89095	http://dbpedia.org/page/Tropical_storm
+510fdd2000315214fbb89095	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+510fdd2000315214fbb89095	http://dbpedia.org/page/President_Obama
+510f2dc900315214fbb88ee3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5110122b00315214fbb8913a	http://dbpedia.org/page/Brooklyn
+510f2df200315214fbb88f0b	http://dbpedia.org/page/Queens
+510f2df200315214fbb88f0b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+510f581a00315214fbb88f6f	http://dbpedia.org/page/Baltimore

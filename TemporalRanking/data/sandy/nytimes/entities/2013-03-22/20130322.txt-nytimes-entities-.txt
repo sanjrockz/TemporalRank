@@ -1,0 +1,4 @@
+514d133dfdc5926e77001d55	http://dbpedia.org/page/Manhattan
+514d133dfdc5926e77001d55	http://dbpedia.org/page/National_Park_Service
+514c9479fdc5926e77001b8f	http://dbpedia.org/page/Jamaica
+514c9479fdc5926e77001b8f	http://dbpedia.org/page/Queens

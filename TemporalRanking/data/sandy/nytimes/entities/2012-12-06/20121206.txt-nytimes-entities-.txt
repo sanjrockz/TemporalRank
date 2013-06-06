@@ -1,0 +1,9 @@
+50c0056900315214fbb7dce8	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c0b3cb00315214fbb7deac	http://dbpedia.org/page/Weather
+50c0b3cb00315214fbb7deac	http://dbpedia.org/page/Michael_Bloomberg
+50bf5dc400315214fbb7da3a	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c136de00315214fbb7e0d1	http://dbpedia.org/page/White_House
+50c03aaf00315214fbb7dd70	http://dbpedia.org/page/President_Obama
+50c10aa000315214fbb7e00c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c1249d00315214fbb7e081	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50bf67a300315214fbb7da56	http://dbpedia.org/page/President_Obama

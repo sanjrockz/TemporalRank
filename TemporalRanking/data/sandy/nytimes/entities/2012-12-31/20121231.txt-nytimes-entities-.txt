@@ -1,0 +1,8 @@
+50e0afe500315214fbb81bb7	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e0fdbd00315214fbb81c35	http://dbpedia.org/page/Queens
+50e0fdbd00315214fbb81c35	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e22e8e00315214fbb81e38	http://dbpedia.org/page/Manhattan
+50e1b98e00315214fbb81d00	http://dbpedia.org/page/Facebook
+50e1b98e00315214fbb81d00	http://dbpedia.org/page/YouTube
+50e21c7400315214fbb81e03	http://dbpedia.org/page/White_House
+50e2445600315214fbb81e61	http://dbpedia.org/page/Hurricane_Sandy_(2012)

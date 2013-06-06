@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Atlantic	0.25
+http://dbpedia.org/page/Climate_change	0.25
+http://dbpedia.org/page/Queens	0.08333333333333334
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.16666666666666663

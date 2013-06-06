@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Chris_Christie	0.2
+http://dbpedia.org/page/Long_Island	0.2
+http://dbpedia.org/page/President_Obama	0.2
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.6

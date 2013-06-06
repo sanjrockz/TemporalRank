@@ -1,0 +1,3 @@
+5126e042cf28d009de001500	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51273a37cf28d009de0015b4	http://dbpedia.org/page/Weather
+5126a6a8cf28d009de00145a	http://dbpedia.org/page/Brooklyn

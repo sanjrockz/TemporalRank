@@ -1,0 +1,16 @@
+513e03d0cf28d04ae000175b	http://dbpedia.org/page/Sandy_Hook
+50e72a9800315214fbb82777	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e75f5000315214fbb8280b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e75f5000315214fbb8280b	http://dbpedia.org/page/Whitestone_Bridge
+50e6dc1300315214fbb8264e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e6dc1300315214fbb8264e	http://dbpedia.org/page/Atlantic
+50e6153200315214fbb824d0	http://dbpedia.org/page/Chris_Christie
+50e7160f00315214fbb82721	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e6e65600315214fbb82667	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e7593500315214fbb827fa	http://dbpedia.org/page/Port-au-Prince
+50e64e4000315214fbb8256a	http://dbpedia.org/page/FEMA
+50e64e4000315214fbb8256a	http://dbpedia.org/page/Staten_Island
+50e64e4000315214fbb8256a	http://dbpedia.org/page/Queens
+50e64e4000315214fbb8256a	http://dbpedia.org/page/Federal_Emergency_Management_Agency
+50e595b800315214fbb82365	http://dbpedia.org/page/Sandy_Hook
+50e6966900315214fbb825b6	http://dbpedia.org/page/Flood_insurance

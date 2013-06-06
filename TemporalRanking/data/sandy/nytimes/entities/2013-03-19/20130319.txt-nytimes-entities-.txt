@@ -1,0 +1,9 @@
+51477fd0fdc5926e77000b98	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5148dba0fdc5926e77000fd6	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5148c50bfdc5926e77000f86	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5148c50bfdc5926e77000f86	http://dbpedia.org/page/National_Park_Service
+5148c475fdc5926e77000f7f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5148c475fdc5926e77000f7f	http://dbpedia.org/page/National_Park_Service
+5148cb70fdc5926e77000fa0	http://dbpedia.org/page/Staten_Island
+5148cb70fdc5926e77000fa0	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5148d808fdc5926e77000fca	http://dbpedia.org/page/Brooklyn

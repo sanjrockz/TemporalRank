@@ -1,0 +1,5 @@
+51393db8cf28d04ae000041f	http://dbpedia.org/page/Queens
+51393db8cf28d04ae000041f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513948d1cf28d04ae000042d	http://dbpedia.org/page/Queens
+513948d1cf28d04ae000042d	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513b75a5cf28d04ae00009a1	http://dbpedia.org/page/Climate_change

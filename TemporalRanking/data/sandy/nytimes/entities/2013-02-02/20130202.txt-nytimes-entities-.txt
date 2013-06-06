@@ -1,0 +1,2 @@
+510d6baa00315214fbb88c8f	http://dbpedia.org/page/Weather
+510d6baa00315214fbb88c8f	http://dbpedia.org/page/Hurricane_Sandy_(2012)

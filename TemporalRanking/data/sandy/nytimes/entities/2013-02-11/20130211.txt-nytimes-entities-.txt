@@ -1,0 +1,5 @@
+5119f8f400315214fbb8a5f5	http://dbpedia.org/page/Michael_R._Bloomberg
+5119f8f400315214fbb8a5f5	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+511a442500315214fbb8a67c	http://dbpedia.org/page/President_Obama
+51189c8d00315214fbb8a55d	http://dbpedia.org/page/Long_Island
+51187b9600315214fbb8a4ac	http://dbpedia.org/page/Northeastern_States

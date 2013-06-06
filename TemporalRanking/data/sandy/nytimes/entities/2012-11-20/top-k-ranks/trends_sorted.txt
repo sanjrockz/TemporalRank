@@ -1,0 +1,9 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.7058823529411765
+http://dbpedia.org/page/Chris_Christie	0.17647058823529413
+http://dbpedia.org/page/Queens	0.11764705882352941
+http://dbpedia.org/page/Democratic_Party	0.058823529411764705
+http://dbpedia.org/page/Fire_Island	0.058823529411764705
+http://dbpedia.org/page/President_Obama	0.058823529411764705
+http://dbpedia.org/page/Climate_change	0.058823529411764705
+http://dbpedia.org/page/Coney_Island	0.058823529411764705
+http://dbpedia.org/page/Upper_West_Side	0.058823529411764705

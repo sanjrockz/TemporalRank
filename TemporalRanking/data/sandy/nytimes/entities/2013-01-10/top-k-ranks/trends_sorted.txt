@@ -1,0 +1,7 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.5714285714285714
+http://dbpedia.org/page/Democratic_Party	0.14285714285714285
+http://dbpedia.org/page/Queens	0.14285714285714285
+http://dbpedia.org/page/Sandy_Hook	0.14285714285714285
+http://dbpedia.org/page/Breezy_Point,_Queens	0.14285714285714285
+http://dbpedia.org/resource/Dan_Malloy	0.14285714285714285
+http://dbpedia.org/page/Lower_Manhattan	0.14285714285714285

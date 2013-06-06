@@ -1,0 +1,10 @@
+50eef3da00315214fbb837ad	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50ef087300315214fbb837fd	http://dbpedia.org/page/Queens
+50ef087300315214fbb837fd	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50ef246a00315214fbb83859	http://dbpedia.org/page/Breezy_Point,_Queens
+50ef246a00315214fbb83859	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50edb15400315214fbb8343e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50ee36b600315214fbb835e9	http://dbpedia.org/page/Democratic_Party
+50ee760600315214fbb83664	http://dbpedia.org/page/Sandy_Hook
+50ee760600315214fbb83664	http://dbpedia.org/resource/Dan_Malloy
+50ed831c00315214fbb83397	http://dbpedia.org/page/Lower_Manhattan

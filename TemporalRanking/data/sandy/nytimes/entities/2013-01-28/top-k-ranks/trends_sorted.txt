@@ -1,0 +1,3 @@
+http://dbpedia.org/page/Atlantic	0.5
+http://dbpedia.org/page/Queens	0.5
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.5

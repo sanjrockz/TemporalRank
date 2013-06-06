@@ -1,0 +1,9 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.8333333333333334
+http://dbpedia.org/page/Tropical_storm	0.25
+http://dbpedia.org/page/Atlantic	0.125
+http://dbpedia.org/page/Hurricane_Irene	0.08333333333333333
+http://dbpedia.org/page/Santiago_de_Cuba	0.041666666666666664
+http://dbpedia.org/page/Weather	0.041666666666666664
+http://dbpedia.org/page/Category_2_hurricane	0.041666666666666664
+http://dbpedia.org/page/White_House	0.041666666666666664
+http://dbpedia.org/page/National_Park_Service	0.041666666666666664

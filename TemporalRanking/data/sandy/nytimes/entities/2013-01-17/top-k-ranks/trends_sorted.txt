@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Inflation	0.25
+http://dbpedia.org/page/White_House	0.25
+http://dbpedia.org/page/Brooklyn	0.0
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.25

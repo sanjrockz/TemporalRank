@@ -1,0 +1,8 @@
+51380225cf28d04ae000001d	http://dbpedia.org/page/Queens
+51380225cf28d04ae000001d	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5137ff30cf28d04ae000000f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5138bdabcf28d04ae00001fd	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5138bdabcf28d04ae00001fd	http://dbpedia.org/page/Atlantic
+5138a4d2cf28d04ae000018f	http://dbpedia.org/page/White_House
+5138a4d2cf28d04ae000018f	http://dbpedia.org/page/President_Obama
+5138035fcf28d04ae0000020	http://dbpedia.org/page/Brooklyn

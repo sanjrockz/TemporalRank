@@ -1,0 +1,7 @@
+50f578d200315214fbb85097	http://dbpedia.org/page/Tropical_storm
+50f578d200315214fbb85097	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50f5104100315214fbb84f1e	http://dbpedia.org/page/Jersey_Shore
+50f5104100315214fbb84f1e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50f5f90800315214fbb8524c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50f5f90800315214fbb8524c	http://dbpedia.org/page/Climate_change
+50f5104100315214fbb84f26	http://dbpedia.org/page/Atlantic

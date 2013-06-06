@@ -1,0 +1,3 @@
+5106231800315214fbb87849	http://dbpedia.org/page/Queens
+5106231800315214fbb87849	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51078dc400315214fbb87bd1	http://dbpedia.org/page/Atlantic

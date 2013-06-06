@@ -1,0 +1,6 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.6
+http://dbpedia.org/page/Northeastern_States	0.2
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.2
+http://dbpedia.org/page/President_Obama	0.2
+http://dbpedia.org/page/Staten_Island	0.2
+http://dbpedia.org/page/Chicago	0.2

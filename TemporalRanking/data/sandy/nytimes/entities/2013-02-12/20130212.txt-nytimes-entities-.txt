@@ -1,0 +1,4 @@
+511a65a800315214fbb8a76b	http://dbpedia.org/page/Canada
+511a425a00315214fbb8a66d	http://dbpedia.org/page/Long_Island
+511b54aa00315214fbb8a9ba	http://dbpedia.org/page/President_Obama
+511b08ae00315214fbb8a803	http://dbpedia.org/page/President_Obama

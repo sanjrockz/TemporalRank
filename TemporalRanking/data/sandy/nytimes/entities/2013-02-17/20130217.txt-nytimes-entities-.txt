@@ -1,0 +1,2 @@
+511b8eb100315214fbb8ab77	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+511fd6fbcf28d009de0002f4	http://dbpedia.org/page/President_Obama

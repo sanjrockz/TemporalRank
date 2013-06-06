@@ -1,0 +1,5 @@
+513e021ccf28d04ae000100f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c0f85800315214fbb7dfbd	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c4718100315214fbb7e763	http://dbpedia.org/page/Climate_change
+50c454c100315214fbb7e746	http://dbpedia.org/page/Brooklyn
+50c43b5f00315214fbb7e735	http://dbpedia.org/page/Brooklyn

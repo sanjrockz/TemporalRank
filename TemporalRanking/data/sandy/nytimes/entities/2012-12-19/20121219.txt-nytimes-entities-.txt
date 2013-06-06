@@ -1,0 +1,8 @@
+50d1f9b500315214fbb80210	http://dbpedia.org/page/Northeastern_States
+50d1f9b500315214fbb80210	http://dbpedia.org/page/Federal_Emergency_Management_Agency
+50d0fad900315214fbb80195	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d0fad900315214fbb80195	http://dbpedia.org/page/Chicago
+50d10ec700315214fbb801be	http://dbpedia.org/page/Staten_Island
+50d1f9e600315214fbb80262	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d1f9e600315214fbb80262	http://dbpedia.org/page/President_Obama
+50d1fb7200315214fbb8036e	http://dbpedia.org/page/Hurricane_Sandy_(2012)

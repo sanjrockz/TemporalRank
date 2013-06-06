@@ -1,0 +1,14 @@
+50e5f33200315214fbb82473	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e4ef8800315214fbb8223e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e5013d00315214fbb82262	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e5e0b500315214fbb82444	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e5db4d00315214fbb82436	http://dbpedia.org/page/FEMA
+50e5db4d00315214fbb82436	http://dbpedia.org/page/Flood_insurance
+50e5db4d00315214fbb82436	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e5d22400315214fbb82418	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e5f09e00315214fbb8246e	http://dbpedia.org/page/Chris_Christie
+50e5f52800315214fbb82475	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e5f52800315214fbb82475	http://dbpedia.org/page/Brooklyn
+50e467fa00315214fbb820f6	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e5401500315214fbb822bc	http://dbpedia.org/page/Flood_insurance
+50e538df00315214fbb822b1	http://dbpedia.org/page/White_House

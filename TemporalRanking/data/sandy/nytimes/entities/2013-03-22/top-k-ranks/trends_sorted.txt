@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Jamaica	0.5
+http://dbpedia.org/page/Queens	0.5
+http://dbpedia.org/page/National_Park_Service	0.5
+http://dbpedia.org/page/Manhattan	0.5

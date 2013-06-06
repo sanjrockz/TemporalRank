@@ -1,0 +1,2 @@
+http://dbpedia.org/page/Manhattan	1.0
+http://dbpedia.org/page/Battery_Park	0.5

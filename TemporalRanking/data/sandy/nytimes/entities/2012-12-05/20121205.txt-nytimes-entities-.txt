@@ -1,0 +1,13 @@
+50bfe67600315214fbb7dc9d	http://dbpedia.org/page/Weather
+50c015c700315214fbb7dd1b	http://dbpedia.org/page/Weather
+50c015c700315214fbb7dd1b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513e0200cf28d04ae0000fbe	http://dbpedia.org/page/Staten_Island
+50bfd74600315214fbb7dc5f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50be626300315214fbb7d66a	http://dbpedia.org/page/Staten_Island
+50be626300315214fbb7d66a	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50beb80c00315214fbb7d8bf	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50beb80c00315214fbb7d8bf	http://dbpedia.org/page/Manhattan
+50bfbf4c00315214fbb7dbf7	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50becbee00315214fbb7d8e9	http://dbpedia.org/page/Staten_Island
+50becbee00315214fbb7d8e9	http://dbpedia.org/page/Brooklyn
+50bec1ea00315214fbb7d8d1	http://dbpedia.org/page/Oklahoma

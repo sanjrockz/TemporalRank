@@ -1,0 +1,12 @@
+50b507b600315214fbb7c24c	http://dbpedia.org/page/Lower_Manhattan
+50b507b600315214fbb7c24c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507c500315214fbb7c300	http://dbpedia.org/page/Flood_insurance
+50b5083200315214fbb7c95f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5083200315214fbb7c96c	http://dbpedia.org/page/Long_Island
+50b5079b00315214fbb7c108	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507b600315214fbb7c1f4	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5079c00315214fbb7c17a	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5079c00315214fbb7c161	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5083600315214fbb7c9d2	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507da00315214fbb7c4db	http://dbpedia.org/page/Queens
+50b507d800315214fbb7c473	http://dbpedia.org/page/Brooklyn

@@ -1,0 +1,3 @@
+http://dbpedia.org/page/Democratic_Party	0.5
+http://dbpedia.org/page/President_Obama	0.5
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.5

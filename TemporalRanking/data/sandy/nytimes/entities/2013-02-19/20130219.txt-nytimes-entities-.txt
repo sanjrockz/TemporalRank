@@ -1,0 +1,4 @@
+5122df11cf28d009de0009f2	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5122df11cf28d009de0009f2	http://dbpedia.org/page/Federal_Emergency_Management_Agency
+5122ec06cf28d009de000a0d	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5122ec06cf28d009de000a0d	http://dbpedia.org/page/Brooklyn

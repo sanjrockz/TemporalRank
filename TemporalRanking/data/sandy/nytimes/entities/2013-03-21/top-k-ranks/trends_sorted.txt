@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Long_Island	0.3333333333333333
+http://dbpedia.org/page/Manhattan	0.3333333333333333
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.16666666666666669
+http://dbpedia.org/page/Brooklyn	-0.16666666666666669

@@ -1,0 +1,9 @@
+508817af95e998af71188ef8	http://dbpedia.org/page/Jamaica
+508817af95e998af71188ef8	http://dbpedia.org/page/Tropical_storm
+5089baf195e998af71189254	http://dbpedia.org/page/Jamaica
+5089baf195e998af71189254	http://dbpedia.org/page/Tropical_storm
+5089baf195e998af71189254	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5089baf195e998af71189254	http://dbpedia.org/page/Storm_warning
+508817b795e998af71188ff7	http://dbpedia.org/page/Jamaica
+508817b795e998af71188ff7	http://dbpedia.org/page/Tropical_storm
+508817b795e998af71188fc3	http://dbpedia.org/page/Guant%C3%A1namo

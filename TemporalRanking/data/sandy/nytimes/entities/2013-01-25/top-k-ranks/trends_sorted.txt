@@ -1,0 +1,9 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.75
+http://dbpedia.org/page/Brooklyn	0.25
+http://dbpedia.org/page/Chris_Christie	0.08333333333333333
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.08333333333333333
+http://dbpedia.org/page/Michael_R._Bloomberg	0.08333333333333333
+http://dbpedia.org/page/Facebook	0.08333333333333333
+http://dbpedia.org/page/Long_Island	0.08333333333333333
+http://dbpedia.org/page/Lower_Manhattan	0.08333333333333333
+http://dbpedia.org/page/Consolidated_Edison	0.08333333333333333

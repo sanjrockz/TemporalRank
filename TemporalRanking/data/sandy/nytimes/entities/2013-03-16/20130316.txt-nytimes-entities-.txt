@@ -1,0 +1,3 @@
+514710b4fdc5926e77000348	http://dbpedia.org/page/Queens
+514710b4fdc5926e77000348	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5147129dfdc5926e7700046b	http://dbpedia.org/page/Weather

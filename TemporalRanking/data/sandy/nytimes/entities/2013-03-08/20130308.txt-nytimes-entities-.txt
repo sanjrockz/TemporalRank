@@ -1,0 +1,4 @@
+513a1b93cf28d04ae0000676	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513a1b93cf28d04ae0000676	http://dbpedia.org/page/Coney_Island
+513a1b93cf28d04ae0000676	http://dbpedia.org/page/Brooklyn
+513a2c90cf28d04ae00006ba	http://dbpedia.org/page/Manhattan

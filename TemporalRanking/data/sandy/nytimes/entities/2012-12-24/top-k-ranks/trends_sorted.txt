@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.6666666666666666
+http://dbpedia.org/page/Sandy_Hook	0.3333333333333333
+http://dbpedia.org/page/Brooklyn	0.3333333333333333
+http://dbpedia.org/page/Upstate_New_York	0.3333333333333333

@@ -1,0 +1,2 @@
+http://dbpedia.org/page/Brooklyn	0.5
+http://dbpedia.org/page/Flood_insurance	0.5

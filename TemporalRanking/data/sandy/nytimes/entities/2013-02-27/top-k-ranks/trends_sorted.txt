@@ -1,0 +1,7 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.4
+http://dbpedia.org/page/Storm_surge	0.2
+http://dbpedia.org/page/Chris_Christie	0.2
+http://dbpedia.org/page/Fire_Island	0.2
+http://dbpedia.org/page/White_House	0.2
+http://dbpedia.org/page/Brooklyn	0.2
+http://dbpedia.org/page/Upper_West_Side	0.2

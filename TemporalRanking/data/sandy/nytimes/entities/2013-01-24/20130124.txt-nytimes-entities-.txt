@@ -1,0 +1,3 @@
+5100eb3a00315214fbb86ae1	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5101a51200315214fbb86f51	http://dbpedia.org/page/Climate_change
+5100eb1400315214fbb86aa2	http://dbpedia.org/page/Manhattan

@@ -1,0 +1,8 @@
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.16666666666666666
+http://dbpedia.org/page/Long_Island	0.16666666666666666
+http://dbpedia.org/page/LaGuardia_Airport	0.16666666666666666
+http://dbpedia.org/page/White_House	0.16666666666666666
+http://dbpedia.org/page/National_Park_Service	0.16666666666666666
+http://dbpedia.org/page/Mayor_Bloomberg	0.16666666666666666
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.0
+http://dbpedia.org/page/Tropical_storm	-0.033333333333333354

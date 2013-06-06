@@ -1,0 +1,2 @@
+http://dbpedia.org/page/Texas	0.75
+http://dbpedia.org/page/Sandy_Hook	0.25

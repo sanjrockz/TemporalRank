@@ -1,0 +1,3 @@
+http://dbpedia.org/page/Climate_change	0.75
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.25
+http://dbpedia.org/page/Canada	0.25

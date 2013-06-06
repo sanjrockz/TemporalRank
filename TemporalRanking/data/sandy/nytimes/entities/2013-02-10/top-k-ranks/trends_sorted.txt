@@ -1,0 +1,5 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.5
+http://dbpedia.org/page/Northeastern_States	0.16666666666666666
+http://dbpedia.org/page/Gale	0.16666666666666666
+http://dbpedia.org/page/Puerto_Rico	0.16666666666666666
+http://dbpedia.org/page/Staten_Island	0.16666666666666666

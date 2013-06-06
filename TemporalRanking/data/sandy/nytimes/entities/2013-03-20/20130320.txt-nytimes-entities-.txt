@@ -1,0 +1,5 @@
+5148dd30fdc5926e77000fdc	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5148dd30fdc5926e77000fdc	http://dbpedia.org/page/Brooklyn
+51526f12fdc5926e77002842	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5149ce2ffdc5926e77001255	http://dbpedia.org/page/Lower_Manhattan
+514a0671fdc5926e7700134d	http://dbpedia.org/page/Brooklyn

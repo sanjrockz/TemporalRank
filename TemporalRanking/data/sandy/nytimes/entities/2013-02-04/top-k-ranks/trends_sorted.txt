@@ -1,0 +1,6 @@
+http://dbpedia.org/page/Tropical_storm	0.2
+http://dbpedia.org/page/Queens	0.2
+http://dbpedia.org/page/President_Obama	0.2
+http://dbpedia.org/page/Brooklyn	0.2
+http://dbpedia.org/page/Baltimore	0.2
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.4

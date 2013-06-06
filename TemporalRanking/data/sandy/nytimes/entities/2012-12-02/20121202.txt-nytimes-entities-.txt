@@ -1,0 +1,3 @@
+50c42bb400315214fbb7e721	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c4057700315214fbb7e6e3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c4057700315214fbb7e6e3	http://dbpedia.org/page/Manhattan

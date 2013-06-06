@@ -1,0 +1,8 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.2777777777777778
+http://dbpedia.org/page/Michael_R._Bloomberg	0.1111111111111111
+http://dbpedia.org/page/Lower_Manhattan	0.1111111111111111
+http://dbpedia.org/page/Nasdaq	0.05555555555555555
+http://dbpedia.org/page/Alicia_Keys	0.05555555555555555
+http://dbpedia.org/page/Chris_Christie	0.05555555555555555
+http://dbpedia.org/page/Climate_change	0.05555555555555555
+http://dbpedia.org/page/Staten_Island	0.05555555555555555

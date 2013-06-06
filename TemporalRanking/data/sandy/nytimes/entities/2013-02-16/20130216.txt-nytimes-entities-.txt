@@ -1,0 +1,4 @@
+511fba98cf28d009de0002b6	http://dbpedia.org/page/Sandy_Hook
+511ee704cf28d009de000195	http://dbpedia.org/page/Texas
+511ee6bacf28d009de000194	http://dbpedia.org/page/Texas
+511ec502cf28d009de0000a4	http://dbpedia.org/page/Texas

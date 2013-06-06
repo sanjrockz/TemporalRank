@@ -1,0 +1,2 @@
+50fadb4100315214fbb85f81	http://dbpedia.org/page/Flood_insurance
+50fa541900315214fbb85dfe	http://dbpedia.org/page/Brooklyn

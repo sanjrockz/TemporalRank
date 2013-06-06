@@ -1,0 +1,5 @@
+50fe482800315214fbb864da	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50fe481400315214fbb8649d	http://dbpedia.org/page/Climate_change
+50fe4d5900315214fbb865aa	http://dbpedia.org/page/Canada
+50fe4d5900315214fbb865aa	http://dbpedia.org/page/Climate_change
+50fd387c00315214fbb86352	http://dbpedia.org/page/Climate_change

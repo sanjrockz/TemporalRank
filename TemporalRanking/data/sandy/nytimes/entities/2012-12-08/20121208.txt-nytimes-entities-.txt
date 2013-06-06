@@ -1,0 +1,12 @@
+513e03a6cf28d04ae000169e	http://dbpedia.org/page/Queens
+513e03a6cf28d04ae000169e	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c283ca00315214fbb7e4d3	http://dbpedia.org/page/Weather
+50c283ca00315214fbb7e4d3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c2014100315214fbb7e2c7	http://dbpedia.org/page/Queens
+50c2014100315214fbb7e2c7	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c26acd00315214fbb7e481	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c377d200315214fbb7e609	http://dbpedia.org/page/Storm_surge
+50c1f57e00315214fbb7e2a9	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c284e500315214fbb7e4d8	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c36a0b00315214fbb7e5fa	http://dbpedia.org/page/Brooklyn
+50c23c5800315214fbb7e3b8	http://dbpedia.org/page/Manhattan

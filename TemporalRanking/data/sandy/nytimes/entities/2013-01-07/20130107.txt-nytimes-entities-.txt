@@ -1,0 +1,5 @@
+513e0597cf28d04ae0001e98	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50eb4aba00315214fbb82e13	http://dbpedia.org/page/Chris_Christie
+50ea1cf900315214fbb82b57	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50ebd87600315214fbb82f3e	http://dbpedia.org/page/Long_Island
+50ea29ae00315214fbb82b72	http://dbpedia.org/page/President_Obama

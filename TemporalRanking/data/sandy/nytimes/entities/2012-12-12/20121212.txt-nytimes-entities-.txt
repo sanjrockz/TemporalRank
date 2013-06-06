@@ -1,0 +1,10 @@
+513e0243cf28d04ae00010ab	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c8ffe900315214fbb7f2d3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513e02d0cf28d04ae00012ff	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c8ff3400315214fbb7f2cf	http://dbpedia.org/page/Chris_Christie
+50c7b15200315214fbb7ef06	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c7e86800315214fbb7efa3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c8cb6700315214fbb7f210	http://dbpedia.org/page/Manhattan
+50c8c4d300315214fbb7f1f4	http://dbpedia.org/page/Chris_Christie
+50c8c4d300315214fbb7f1f4	http://dbpedia.org/page/White_House
+50c90f9700315214fbb7f30f	http://dbpedia.org/page/Weather

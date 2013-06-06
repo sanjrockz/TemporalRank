@@ -1,0 +1,16 @@
+50d3bf8300315214fbb80945	http://dbpedia.org/page/Tropical_storm
+50d3bf8300315214fbb80945	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d3729f00315214fbb80830	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d2443b00315214fbb80512	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d31f6700315214fbb8070b	http://dbpedia.org/page/Atlantic
+50d290a400315214fbb805e3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d290a400315214fbb805e3	http://dbpedia.org/page/President_Obama
+50d25e0300315214fbb8055d	http://dbpedia.org/page/Kentucky
+50d32c9200315214fbb8073a	http://dbpedia.org/page/Central_Park
+50d2fc7700315214fbb806ac	http://dbpedia.org/page/Social_media
+50d2fc7700315214fbb806ac	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d28b3c00315214fbb805db	http://dbpedia.org/page/Queens
+50d28b3c00315214fbb805db	http://dbpedia.org/page/Facebook
+50d28b3c00315214fbb805db	http://dbpedia.org/page/YouTube
+50d24dcb00315214fbb80537	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d26e6200315214fbb80585	http://dbpedia.org/page/Michael_R._Bloomberg

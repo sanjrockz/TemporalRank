@@ -1,0 +1,13 @@
+50c6a4ab00315214fbb7ec1f	http://dbpedia.org/page/Mayor_Bloomberg
+50c6a4ab00315214fbb7ec1f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c784d200315214fbb7ee5f	http://dbpedia.org/page/LaGuardia_Airport
+50c784d200315214fbb7ee5f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c746b200315214fbb7ed6c	http://dbpedia.org/page/Tropical_storm
+50c746b200315214fbb7ed6c	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c6a92300315214fbb7ec26	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c6a92300315214fbb7ec26	http://dbpedia.org/page/National_Park_Service
+50c7897200315214fbb7ee6f	http://dbpedia.org/page/Long_Island
+50c7897200315214fbb7ee6f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c7897200315214fbb7ee6f	http://dbpedia.org/page/White_House
+50c753a000315214fbb7ed99	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50c753a000315214fbb7ed99	http://dbpedia.org/page/Federal_Emergency_Management_Agency

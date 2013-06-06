@@ -1,0 +1,9 @@
+5107844300315214fbb879f3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+510787fa00315214fbb87a7f	http://dbpedia.org/page/Weather
+5107844300315214fbb879f1	http://dbpedia.org/page/Queens
+5107844300315214fbb879f1	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51078acf00315214fbb87b07	http://dbpedia.org/page/FEMA
+51078acf00315214fbb87b07	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+510786c300315214fbb87a3d	http://dbpedia.org/page/Federal_Emergency_Management_Agency
+51085df100315214fbb87e84	http://dbpedia.org/page/Staten_Island
+51085df100315214fbb87e84	http://dbpedia.org/page/Hurricane_Sandy_(2012)

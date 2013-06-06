@@ -1,0 +1,17 @@
+513e01cdcf28d04ae0000f03	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a991e300315214fbb7b259	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a7313900315214fbb7af60	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a7cf4e00315214fbb7aff5	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a73a2800315214fbb7af66	http://dbpedia.org/page/Staten_Island
+50a73a2800315214fbb7af66	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a6f1ee00315214fbb7aeeb	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b5073d00315214fbb7bc70	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a7d0f300315214fbb7aff9	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a71bb100315214fbb7af42	http://dbpedia.org/page/Flood_insurance
+50a71bb100315214fbb7af42	http://dbpedia.org/page/Queens
+50a907cc00315214fbb7b182	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50a9031a00315214fbb7b17d	http://dbpedia.org/page/Michael_Bloomberg
+50a9031a00315214fbb7b17d	http://dbpedia.org/page/Chris_Christie
+50a7262c00315214fbb7af57	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50b507b600315214fbb7c1fa	http://dbpedia.org/page/Manhattan
+50a72f5700315214fbb7af5f	http://dbpedia.org/page/Long_Island

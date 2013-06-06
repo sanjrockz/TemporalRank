@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.6
+http://dbpedia.org/page/Tropical_storm	0.2
+http://dbpedia.org/page/Lower_Manhattan	0.2
+http://dbpedia.org/page/Climate_change	0.0

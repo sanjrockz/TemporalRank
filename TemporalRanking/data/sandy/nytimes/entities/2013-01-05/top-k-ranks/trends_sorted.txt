@@ -1,0 +1,3 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.5454545454545454
+http://dbpedia.org/page/Manhattan	0.5
+http://dbpedia.org/page/Flood_insurance	0.40909090909090906

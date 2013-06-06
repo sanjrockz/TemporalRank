@@ -1,0 +1,4 @@
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.34615384615384615
+http://dbpedia.org/page/Tropical_storm	0.16153846153846155
+http://dbpedia.org/page/Breezy_Point,_Queens	0.1
+http://dbpedia.org/page/Staten_Island	-0.015384615384615385

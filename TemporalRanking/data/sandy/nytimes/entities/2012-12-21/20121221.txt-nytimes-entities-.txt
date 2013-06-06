@@ -1,0 +1,13 @@
+50d3c1dc00315214fbb80949	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513e05b8cf28d04ae0001f12	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d4d15200315214fbb80c12	http://dbpedia.org/page/Sandy_Hook
+50d4d15200315214fbb80c12	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d4d15200315214fbb80c12	http://dbpedia.org/page/Brooklyn
+50d3c22c00315214fbb8094b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d4a81600315214fbb80b7a	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d4faf200315214fbb80c9a	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d32c4200315214fbb80735	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d31a7800315214fbb806fd	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d3de7a00315214fbb809a1	http://dbpedia.org/page/Staten_Island
+50d341e300315214fbb80785	http://dbpedia.org/page/Chris_Christie
+50d46fcd00315214fbb80a92	http://dbpedia.org/page/Jersey_Shore

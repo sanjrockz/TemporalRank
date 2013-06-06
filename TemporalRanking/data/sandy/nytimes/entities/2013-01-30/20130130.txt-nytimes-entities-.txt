@@ -1,0 +1,5 @@
+510a269900315214fbb880d3	http://dbpedia.org/page/Queens
+510a269900315214fbb880d3	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5108635800315214fbb87e97	http://dbpedia.org/page/Climate_change
+51080a7d00315214fbb87d65	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+510a283000315214fbb8810c	http://dbpedia.org/page/Atlantic

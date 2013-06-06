@@ -1,0 +1,10 @@
+51157f1c00315214fbb89f9f	http://dbpedia.org/page/Queens
+51157f1c00315214fbb89f9f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51158b5100315214fbb89fa2	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+5116608400315214fbb8a2a9	http://dbpedia.org/page/Queens
+5116608400315214fbb8a2a9	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+511622a400315214fbb8a155	http://dbpedia.org/page/Democratic_Party
+51189f2500315214fbb8a568	http://dbpedia.org/page/Canada
+5116529100315214fbb8a25d	http://dbpedia.org/page/Blizzard
+5115b4ab00315214fbb89faf	http://dbpedia.org/page/Weather
+5116096a00315214fbb8a0b2	http://dbpedia.org/page/Northeastern_States

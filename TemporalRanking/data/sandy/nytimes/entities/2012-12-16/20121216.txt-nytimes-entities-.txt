@@ -1,0 +1,2 @@
+50d0e48a00315214fbb7fa78	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50cc0afe00315214fbb7f843	http://dbpedia.org/page/Long_Island

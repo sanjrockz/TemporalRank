@@ -1,0 +1,5 @@
+50de556a00315214fbb81979	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50df2b6a00315214fbb81a55	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50de4a5e00315214fbb81965	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50de4bc400315214fbb81967	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50de529800315214fbb81974	http://dbpedia.org/page/Hurricane_Sandy_(2012)

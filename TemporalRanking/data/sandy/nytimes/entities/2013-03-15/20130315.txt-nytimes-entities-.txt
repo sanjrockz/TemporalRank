@@ -1,0 +1,5 @@
+51470f19fdc5926e77000283	http://dbpedia.org/page/Tropical_storm
+51470f19fdc5926e77000283	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51494266fdc5926e77001101	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+51494266fdc5926e77001101	http://dbpedia.org/page/Hofstra_University
+51470d32fdc5926e77000135	http://dbpedia.org/page/Manhattan

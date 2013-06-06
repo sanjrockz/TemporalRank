@@ -1,0 +1,12 @@
+50d0e5d400315214fbb7fdde	http://dbpedia.org/page/Fire_Island
+50d0e5d400315214fbb7fdde	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d0e5a600315214fbb7fd5b	http://dbpedia.org/page/Staten_Island
+50d0e5a600315214fbb7fd5b	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d0e5a600315214fbb7fd5b	http://dbpedia.org/page/Storm_surge
+50d0e4d600315214fbb7fb2f	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d0e4d600315214fbb7fb2f	http://dbpedia.org/page/Michael_Bloomberg
+50d0e59e00315214fbb7fd40	http://dbpedia.org/page/Staten_Island
+50d0e59e00315214fbb7fd40	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d0e51000315214fbb7fba3	http://dbpedia.org/page/Tropical_storm
+50d0e4c000315214fbb7faf7	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50d0e4c000315214fbb7faf7	http://dbpedia.org/page/Manhattan

@@ -1,0 +1,2 @@
+http://dbpedia.org/page/Brooklyn	1.0
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	0.5

@@ -1,0 +1,15 @@
+http://dbpedia.org/page/Brooklyn	0.13218390804597702
+http://dbpedia.org/page/Long_Island	0.09770114942528735
+http://dbpedia.org/page/FEMA	0.08333333333333333
+http://dbpedia.org/page/Federal_Emergency_Management_Agency	0.048850574712643674
+http://dbpedia.org/page/Red_Cross	0.041666666666666664
+http://dbpedia.org/page/American_Red_Cross	0.041666666666666664
+http://dbpedia.org/page/Upper_West_Side	0.041666666666666664
+http://dbpedia.org/page/Chris_Christie	0.041666666666666664
+http://dbpedia.org/page/Santiago_de_Cuba	0.041666666666666664
+http://dbpedia.org/page/Flood_insurance	0.01436781609195402
+http://dbpedia.org/page/Tropical_storm	0.00718390804597701
+http://dbpedia.org/page/Manhattan	0.00718390804597701
+http://dbpedia.org/page/Queens	-0.00574712643678163
+http://dbpedia.org/page/Staten_Island	-0.09626436781609196
+http://dbpedia.org/page/Hurricane_Sandy_(2012)	-0.11925287356321834

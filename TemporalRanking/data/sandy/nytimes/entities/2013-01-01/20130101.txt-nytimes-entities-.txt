@@ -1,0 +1,6 @@
+50e2084e00315214fbb81dca	http://dbpedia.org/page/Sandy_Hook
+50e2084e00315214fbb81dca	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+513e0414cf28d04ae0001880	http://dbpedia.org/page/Hurricane_Sandy_(2012)
+50e2449300315214fbb81e62	http://dbpedia.org/page/Staten_Island
+50e2144e00315214fbb81de1	http://dbpedia.org/page/Social_media
+50e2385800315214fbb81e4b	http://dbpedia.org/page/President_Obama
