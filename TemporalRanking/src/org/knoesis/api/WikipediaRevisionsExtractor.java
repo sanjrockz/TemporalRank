@@ -53,7 +53,7 @@ public class WikipediaRevisionsExtractor
 	{
 		initialize();
 		getRevisionIDsQuery = getRevisionIDsQuery + eventPageName;
-		System.out.println(getRevisionIDsQuery);
+//		System.out.println(getRevisionIDsQuery);
 		JSONObject responseObject = new JSONObject();
 		try
 		{
@@ -71,14 +71,13 @@ public class WikipediaRevisionsExtractor
 			while ( ( line = reader.readLine() ) != null )
 			{
 				responseObject = new JSONObject( line );
-				// TODO How to find the pageid of the page?
 				JSONObject jsonResultObject = responseObject.getJSONObject( "query" ).getJSONObject( "pages" );
 				Object jsonObj = null;
 				if( jsonResultObject != null && jsonResultObject.keys().hasNext() )
 				{
 					jsonObj = jsonResultObject.keys().next();
 					
-					resultsArray = ( (JSONObject) jsonObj).getJSONArray( "revisions" );
+					resultsArray = jsonResultObject.getJSONObject( jsonObj.toString() ).getJSONArray( "revisions" );
 					if ( resultsArray != null )
 					{
 						//resultsArray = responseObject.getJSONObject( "query" ).getJSONObject( "pages" ).getJSONObject( "20102947" ).getJSONArray( "revisions" );
@@ -135,14 +134,21 @@ public class WikipediaRevisionsExtractor
 			while ( ( line = reader.readLine() ) != null )
 			{
 				responseObject = new JSONObject( line );
-				System.out.println(responseObject);
-				resultsArray = responseObject.getJSONObject( "query" ).getJSONObject( "pages" ).getJSONObject( "20102947" ).getJSONArray( "revisions" );
-				if ( resultsArray != null )
+//				System.out.println(responseObject);
+				JSONObject jsonResultObject = responseObject.getJSONObject( "query" ).getJSONObject( "pages" );
+				Object jsonObj = null;
+				if( jsonResultObject != null && jsonResultObject.keys().hasNext() )
 				{
-					for ( int i = 0; i < resultsArray.length(); i++ )
+					jsonObj = jsonResultObject.keys().next();
+					resultsArray = jsonResultObject.getJSONObject( jsonObj.toString() ).getJSONArray( "revisions" );
+					
+					if ( resultsArray != null )
 					{
-						jsonObject = ( JSONObject ) resultsArray.get( i );
-						returnString = returnString + jsonObject.getJSONObject( "diff" ).getString( "*" );
+						for ( int i = 0; i < resultsArray.length(); i++ )
+						{
+							jsonObject = ( JSONObject ) resultsArray.get( i );
+							returnString = returnString + jsonObject.getJSONObject( "diff" ).getString( "*" );
+						}
 					}
 				}
 			}
@@ -304,8 +310,13 @@ public class WikipediaRevisionsExtractor
 //		 wikiRevisionExtractor.parseRevisionText( wikiRevisionExtractor.getRevisionText( WikipediaConstants.WIKIPEDIA_EVENT_PAGE_NAME ),
 		// "Barack_Obama" );
 //		 System.out.println( WikipediaRevisionsExtractor.jsonText );
-		System.out.println( wikiRevisionExtractor.getRevisionContentWithEntityMentions( wikiRevisionExtractor.getRevisionText( WikipediaConstants.WIKIPEDIA_EVENT_PAGE_NAME ), "United States" ) );
-		 System.out.println( WikipediaRevisionsExtractor.jsonText );
+		System.out.println(wikiRevisionExtractor.getRevisionContentWithEntityMentions( wikiRevisionExtractor.getRevisionText( WikipediaConstants.WIKIPEDIA_EVENT_PAGE_NAME ), "United States" ));
+		System.out.println( WikipediaRevisionsExtractor.jsonText );
+		
+//		StopWordsRemover stopWordRemover = new StopWordsRemover();
+//		String stringWithoutStopWords = stopWordRemover.removeStopWordsInMemory("data/stopwordslist.txt", );
+//		
+		
 	}
 
 }

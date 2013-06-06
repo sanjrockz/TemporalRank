@@ -8,6 +8,13 @@ public class WikipediaConstants {
 	
 	
 	/**
+	 * Constants used in Entity Co-Occurrance Analysis.
+	 */
+	public static final String ALL_WIKIPEDIA_ENTITIES_FOR_SANDY_FILE = "data/sandy/sandy_wiki_entities_all.txt";
+	public static final String ALL_TWITTER_ENTITIES_FOR_SANDY_FILES_DIR = "data/sandy/twitter_entities";
+	
+	
+	/**
 	 * Database related constants.
 	 */
 	public static final String DRIVER = "com.mysql.jdbc.Driver";
@@ -18,6 +25,7 @@ public class WikipediaConstants {
 	public static final String EVENT_ENDDATE = "end_date";
 	public static final String ANNOTATED_TWEET_TABLE_NAME = "tl_annotated_tweet";
 	public static final String DBPEDIA_SPOTLIGHT_ENTITY_TABLE_NAME = "tl_spotlight_entity";
+	public static final String NYTIMES_ARTICLE_TABLE_NAME = "tl_nytimes_article";
 	
 	
 	public static final int BATCH_COUNT = 100;
